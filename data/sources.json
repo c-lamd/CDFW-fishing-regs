@@ -1,0 +1,2282 @@
+{
+ "asof": "2026-09-15",
+ "entries": [
+  {
+   "name": "Kelp bass (calico)",
+   "group": "Bass & Reef Fish",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "skeptic",
+     true
+    ],
+    [
+     "law",
+     true
+    ],
+    [
+     "cdfw",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Bass - Barred Sand, Kelp, and Spotted Sand (T14 CCR §28.30) (a) Minimum size Fourteen inches total length or ten inches alternate length. (b) Limit Five, in any combination of species, except as provided in subsection (c). (c) Barred sand bass limit Notwithstanding subsection (b), a maximum of 4 barred sand bass may be taken or possessed. (d) Sunset provision Subsection (c) shall remain in effect until June 1, 2028, and as of that date is repealed."
+    },
+    {
+     "url": "https://wildlife.ca.gov/Fishing/Ocean/Regulations/Fishing-Map/Southern",
+     "quote": "The daily bag and possession limit is five fish in any combination of species, except no more than 4 barred sand bass may be taken. The minimum size limit is 14 inches total length or 10 inches alternate length."
+    }
+   ]
+  },
+  {
+   "name": "Barred sand bass",
+   "group": "Bass & Reef Fish",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "skeptic",
+     true
+    ],
+    [
+     "law",
+     true
+    ],
+    [
+     "cdfw",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(c) Barred sand bass limit Notwithstanding subsection (b), a maximum of 4 barred sand bass may be taken or possessed. (d) Sunset provision Subsection (c) shall remain in effect until June 1, 2028, and as of that date is repealed."
+    },
+    {
+     "url": "https://wildlife.ca.gov/News/Archive/california-fish-and-game-commission-pintail-limit-raised-barred-sand-bass-limit-reduced",
+     "quote": "A year-round sub-bag limit of four fish was set with a sunset date of June 1, 2028."
+    }
+   ]
+  },
+  {
+   "name": "Spotted sand bass",
+   "group": "Bass & Reef Fish",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "skeptic",
+     true
+    ],
+    [
+     "law",
+     true
+    ],
+    [
+     "cdfw",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Bass - Kelp, Barred Sand, Spotted Sand Year Round 14 in. total length, 10 in. alternate length 5 fish, all species combined, except only 4 may be barred sand bass §28.30"
+    }
+   ]
+  },
+  {
+   "name": "White seabass",
+   "group": "Bass & Reef Fish",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "skeptic",
+     true
+    ],
+    [
+     "law",
+     true
+    ],
+    [
+     "cdfw",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.35",
+     "quote": "(a) Minimum size: Twenty-eight inches total length or twenty and one-half inches alternate length. (b) Season: Open all year. (c) Limit: Three, except that only one fish may be taken in waters south of Pt. Conception between March 15 and June 15."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Seabass, White (T14 CCR §28.35) (a) Minimum size Twenty-eight inches total length or twenty and one-half inches alternate length. (b) Season Open all year. (c) Limit Three, except that only one fish may be taken in waters south of Pt. Conception between March 15 and June 15."
+    }
+   ]
+  },
+  {
+   "name": "Giant (black) sea bass",
+   "group": "Bass & Reef Fish",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "skeptic",
+     true
+    ],
+    [
+     "law",
+     true
+    ],
+    [
+     "cdfw",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.10",
+     "quote": "(a) May not be taken off California. All fish taken incidental to other fishing activity shall be immediately returned to the water where taken. (b) Limit: Two per angler per trip when fishing south of United States-Mexico border. A valid fishing permit or license from the Mexican government constitutes proof that fish were taken legally."
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.90",
+     "quote": "may use spearfishing gear and skin or SCUBA diving equipment to take fin fish other than giant (black) sea bass, garibaldi, gulf grouper, broomtail grouper, trout, salmon, or broadbill"
+    }
+   ]
+  },
+  {
+   "name": "California sheephead",
+   "group": "Bass & Reef Fish",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "cdfw",
+     true
+    ],
+    [
+     "law",
+     true
+    ],
+    [
+     "skeptic",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.26",
+     "quote": "(a) Closed season: January 1 through the last day in February with the following exceptions: (1) Shore Based Angling: When angling from shore (including beaches, banks, piers, jetties, breakwaters, docks, and other artificial structures connected to the shore), California Sheephead may be taken and/or possessed year-round. No vessel or watercraft (motorized or non-motorized) may be used to assist in the take, transport and/or possession California Sheephead while angling from shore under this provision. (2) Diving or Spearfishing: When diving or spearfishing, California Sheephead may be taken and/or possessed year-round. During the closed season, January 1 through the last day in February, all types of fishing gear, except spearfishing gear, are prohibited to be aboard the vessel or watercraft (motorized or non-motorized) when taking and/or possessing California sheephead under this provision. (b) Limit: Two. (c) Minimum size: 12 inches total length."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Sheephead, California Boat-based anglers: March 1 through December 31; Recreational divers and shore-based anglers: Year Round 12 in. total length 2 fish §§28.26, 27.65(b), 27.50"
+    }
+   ]
+  },
+  {
+   "name": "Ocean whitefish",
+   "group": "Bass & Reef Fish",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "cdfw",
+     true
+    ],
+    [
+     "law",
+     true
+    ],
+    [
+     "skeptic",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.58",
+     "quote": "(a) Open year-round in all depths. (b) Limit: The general bag limit of not more than 20 finfish in combination of all species with not more than 10 of any one species applies to ocean whitefish. See subsection 27.65 (b) for fillet size limit."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Whitefish, Ocean Year Round None 10 fish as part of 20 fish"
+    }
+   ]
+  },
+  {
+   "name": "CA scorpionfish (sculpin)",
+   "group": "Bass & Reef Fish",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "cdfw",
+     true
+    ],
+    [
+     "law",
+     true
+    ],
+    [
+     "skeptic",
+     false
+    ]
+   ],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.54",
+     "quote": "(a) Open year-round in all depths, except in the Groundfish Exclusion Areas where these species may not be taken or possessed at any time. See section 27.50 . (b) Limit: Five. (c) Minimum size: None. See subsection 27.65 (b) for fillet regulations."
+    },
+    {
+     "url": "https://wildlife.ca.gov/Fishing/Ocean/Regulations/Fishing-Map/Southern",
+     "quote": "5 fish"
+    }
+   ]
+  },
+  {
+   "name": "Garibaldi",
+   "group": "Bass & Reef Fish",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "cdfw",
+     true
+    ],
+    [
+     "law",
+     true
+    ],
+    [
+     "skeptic",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.05",
+     "quote": "May not be taken or possessed."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Garibaldi Take or possession is prohibited Take or possession is prohibited Take or possession is prohibited §§28.05, 28.90, 28.95"
+    }
+   ]
+  },
+  {
+   "name": "Gulf & broomtail grouper",
+   "group": "Bass & Reef Fish",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "cdfw",
+     true
+    ],
+    [
+     "law",
+     true
+    ],
+    [
+     "skeptic",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.12",
+     "quote": "May not be taken or possessed."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Grouper, Gulf and Broomtail (T14 CCR §28.12) May not be taken or possessed."
+    }
+   ]
+  },
+  {
+   "name": "Other groupers (cabrilla)",
+   "group": "Bass & Reef Fish",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "cdfw",
+     true
+    ],
+    [
+     "law",
+     true
+    ],
+    [
+     "skeptic",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Groupers other than broomtail grouper and gulf grouper Year Round None 10 fish as part of 20 fish general bag limit §27.60(a)"
+    },
+    {
+     "url": "https://wildlife.ca.gov/Fishing/Ocean/Regulations/Fishing-Map/Southern",
+     "quote": "The recreational fishery for groupers other than broomtail grouper, gulf grouper, and giant (black) sea bass is open year-round, at all depths. The daily bag and possession limit is 10 fish within the general daily bag limit of 20 fish total, with no minimum size limit."
+    }
+   ]
+  },
+  {
+   "name": "Opaleye",
+   "group": "Bass & Reef Fish",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "cdfw",
+     true
+    ],
+    [
+     "law",
+     true
+    ],
+    [
+     "skeptic",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.60",
+     "quote": "No more than 20 finfish in combination of all species with not more than 10 of any one species, may be taken or possessed by any one person"
+    }
+   ]
+  },
+  {
+   "name": "Halfmoon",
+   "group": "Bass & Reef Fish",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "cdfw",
+     true
+    ],
+    [
+     "law",
+     true
+    ],
+    [
+     "skeptic",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "No more than 20 finfish in combination of all species with not more than 10 of any one species, may be taken or possessed by any one person except as otherwise provided or as defined in subsection (c) below or in Section 195."
+    }
+   ]
+  },
+  {
+   "name": "Sargo",
+   "group": "Bass & Reef Fish",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "cdfw",
+     true
+    ],
+    [
+     "law",
+     true
+    ],
+    [
+     "skeptic",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "No more than 20 finfish in combination of all species with not more than 10 of any one species, may be taken or possessed by any one person except as otherwise provided or as defined in subsection (c) below or in Section 195."
+    }
+   ]
+  },
+  {
+   "name": "Black croaker",
+   "group": "Bass & Reef Fish",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "cdfw",
+     true
+    ],
+    [
+     "law",
+     true
+    ],
+    [
+     "skeptic",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "No more than 20 finfish in combination of all species with not more than 10 of any one species, may be taken or possessed by any one person except as otherwise provided or as defined in subsection (c) below or in Section 195."
+    }
+   ]
+  },
+  {
+   "name": "Rockfish (RCG complex)",
+   "group": "Rockfish & Groundfish",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "10 fish in combination per person Except: Copper rockfish: 1 fish per person Vermilion/sunset rockfish: 2 fish per person combined Canary rockfish: 2 fish per person"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "Divers and shore-based anglers are exempt from season and depth restrictions affecting the RCG complex and other federally managed groundfish (§27.20(b)(1)(C) and (§27.20(b)(1)(D))."
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.20",
+     "quote": "When diving or spearfishing, as authorized in Section 28.90, all species, except those listed in subsection 28.55(b)(1), may be taken or possessed year-round."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "April 1 – June 30: Open all depths"
+    }
+   ]
+  },
+  {
+   "name": "Vermilion/sunset rockfish",
+   "group": "Rockfish & Groundfish",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "In waters of the Mendocino Groundfish Management Area, San Francisco Groundfish Management Area, Central Groundfish Management Area, and Southern Groundfish Management Area is two fish within the RGC limit, regardless of which Groundfish Management Area the vermilion/sunset rockfish was taken in."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "Oct 1 – Dec 31: 50 Fathom - Offshore Only"
+    }
+   ]
+  },
+  {
+   "name": "Copper rockfish",
+   "group": "Rockfish & Groundfish",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(3) The limit on copper rockfish is one fish, within the RCG limit."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "Nearshore Rockfish: (§1.91(a)(1)) black, black and yellow, blue, brown, calico, China, copper, gopher, grass, kelp, and olive rockfishes; treefish"
+    }
+   ]
+  },
+  {
+   "name": "Canary rockfish",
+   "group": "Rockfish & Groundfish",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(4) The limit on canary rockfish is two fish, within the RCG limit."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "Canary rockfish: 2 fish per person"
+    }
+   ]
+  },
+  {
+   "name": "Bocaccio",
+   "group": "Rockfish & Groundfish",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Ten, within the Rockfish, Cabezon, and Greenling complex (RCG complex, as defined in Section 1.91) limit of 10 fish, in any combination of species, except as provided below."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "Shelf Rockfish, (§1.91(a)(3)) bocaccio; canary, chilipepper, dusky, flag, greenblotched, greenspotted, greenstriped, harlequin, honeycomb, Mexican, pink, redstripe, rosethorn, rosy, shortbelly, silvergray, speckled, squarespot, starry, stripetail, tiger, vermilion/sunset, widow, and yellowtail rockfishes"
+    }
+   ]
+  },
+  {
+   "name": "Treefish",
+   "group": "Rockfish & Groundfish",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "Nearshore Rockfish: (§1.91(a)(1)) black, black and yellow, blue, brown, calico, China, copper, gopher, grass, kelp, and olive rockfishes; treefish"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "Oct 1 – Dec 31: Closed - unlawful to possess in all waters"
+    }
+   ]
+  },
+  {
+   "name": "Gopher rockfish",
+   "group": "Rockfish & Groundfish",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "Nearshore Rockfish: (§1.91(a)(1)) black, black and yellow, blue, brown, calico, China, copper, gopher, grass, kelp, and olive rockfishes; treefish"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "10 fish in combination per person"
+    }
+   ]
+  },
+  {
+   "name": "Black-and-yellow rockfish",
+   "group": "Rockfish & Groundfish",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "Nearshore Rockfish: (§1.91(a)(1)) black, black and yellow, blue, brown, calico, China, copper, gopher, grass, kelp, and olive rockfishes; treefish"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "All Rockfish: No minimum size limit"
+    }
+   ]
+  },
+  {
+   "name": "Kelp rockfish",
+   "group": "Rockfish & Groundfish",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "Nearshore Rockfish: (§1.91(a)(1)) black, black and yellow, blue, brown, calico, China, copper, gopher, grass, kelp, and olive rockfishes; treefish"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "Shore-based anglers and divers are exempt from seasons and depths"
+    }
+   ]
+  },
+  {
+   "name": "Grass rockfish",
+   "group": "Rockfish & Groundfish",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "Nearshore Rockfish: (§1.91(a)(1)) black, black and yellow, blue, brown, calico, China, copper, gopher, grass, kelp, and olive rockfishes; treefish"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "10 fish in combination per person"
+    }
+   ]
+  },
+  {
+   "name": "Brown rockfish",
+   "group": "Rockfish & Groundfish",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "Nearshore Rockfish: (§1.91(a)(1)) black, black and yellow, blue, brown, calico, China, copper, gopher, grass, kelp, and olive rockfishes; treefish"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "10 fish in combination per person"
+    }
+   ]
+  },
+  {
+   "name": "Olive rockfish",
+   "group": "Rockfish & Groundfish",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "Nearshore Rockfish: (§1.91(a)(1)) black, black and yellow, blue, brown, calico, China, copper, gopher, grass, kelp, and olive rockfishes; treefish"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "10 fish in combination per person"
+    }
+   ]
+  },
+  {
+   "name": "Blue/deacon rockfish",
+   "group": "Rockfish & Groundfish",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "Nearshore Rockfish: (§1.91(a)(1)) black, black and yellow, blue, brown, calico, China, copper, gopher, grass, kelp, and olive rockfishes; treefish"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "10 fish in combination per person"
+    }
+   ]
+  },
+  {
+   "name": "Cowcod",
+   "group": "Rockfish & Groundfish",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(1) The limit on bronzespotted rockfish, cowcod, quillback rockfish, and yelloweye rockfish is zero. These species shall not be taken or possessed as part of the RCG limit."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "These Rockfishes May Not Be Taken Or Possessed In California - No Retention at any time: Bronzespotted Rockfish, Cowcod, Quillback Rockfish, and Yelloweye Rockfish (§28.55)"
+    }
+   ]
+  },
+  {
+   "name": "Yelloweye rockfish",
+   "group": "Rockfish & Groundfish",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(1) The limit on bronzespotted rockfish, cowcod, quillback rockfish, and yelloweye rockfish is zero. These species shall not be taken or possessed as part of the RCG limit."
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.20",
+     "quote": "When diving or spearfishing, as authorized in Section 28.90, all species, except those listed in subsection 28.55(b)(1), may be taken or possessed year-round."
+    }
+   ]
+  },
+  {
+   "name": "Bronzespotted rockfish",
+   "group": "Rockfish & Groundfish",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(1) The limit on bronzespotted rockfish, cowcod, quillback rockfish, and yelloweye rockfish is zero. These species shall not be taken or possessed as part of the RCG limit."
+    }
+   ]
+  },
+  {
+   "name": "Quillback rockfish",
+   "group": "Rockfish & Groundfish",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(1) The limit on bronzespotted rockfish, cowcod, quillback rockfish, and yelloweye rockfish is zero. These species shall not be taken or possessed as part of the RCG limit."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "These Rockfishes May Not Be Taken Or Possessed In California - No Retention at any time: Bronzespotted Rockfish, Cowcod, Quillback Rockfish, and Yelloweye Rockfish (§28.55)"
+    }
+   ]
+  },
+  {
+   "name": "Lingcod",
+   "group": "Rockfish & Groundfish",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "Lingcod (§28.27) 2 fish per person 22” total length Minimum 14” in length with the entire skin attached"
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.27",
+     "quote": "22 inches total length"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "Oct 1 – Dec 31: 50 Fathom - Offshore Only Take is prohibited shoreward of the 50 fathom (300 feet) Rockfish Conservation Area boundary line"
+    }
+   ]
+  },
+  {
+   "name": "Cabezon",
+   "group": "Rockfish & Groundfish",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.28",
+     "quote": "10 fish, within a Rockfish, Cabezon, and Greenling complex (RCG complex) limit of 10 fish."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "Cabezon and Greenlings: No minimum size limit"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "Oct 1 – Dec 31: Closed - unlawful to possess in all waters"
+    }
+   ]
+  },
+  {
+   "name": "Greenling (kelp/rock)",
+   "group": "Rockfish & Groundfish",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.29",
+     "quote": "For greenlings of the genus Hexagrammos, ten fish within a Rockfish, Cabezon, and Greenling complex (RCG complex)"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=185058",
+     "quote": "Cabezon and Greenlings: No minimum size limit"
+    }
+   ]
+  },
+  {
+   "name": "Yellowtail",
+   "group": "Pelagics",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "law",
+     true
+    ],
+    [
+     "cdfw",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Yellowtail (T14 CCR §28.37) (a) Limit Ten (b) Minimum size Twenty-four inches fork length except that: Five fish less than twenty-four inches fork length may be taken or possessed."
+    },
+    {
+     "url": "https://wildlife.ca.gov/Fishing/Ocean/Regulations/Fishing-Map/Southern",
+     "quote": "The daily bag and possession limit is ten fish. The minimum size limit is 24 inches fork length, except that up to five fish less than 24 inches fork length may be taken or possessed."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(7) Yellowtail: Fillets must be a minimum of 17 inches in length, except not more than 10 fillets may be less than 17 inches. Each fillet shall bear intact a one-inch square patch of skin."
+    }
+   ]
+  },
+  {
+   "name": "Pacific bonito",
+   "group": "Pelagics",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "law",
+     true
+    ],
+    [
+     "cdfw",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Bonito, Pacific (T14 CCR §28.32) (a) Limit Ten. (b) Minimum size Twenty-four inches fork length or five pounds except that: Five fish less than twenty-four inches fork length or weighing less than five pounds may be taken and possessed."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(5) Pacific bonito: No more than 10 fillets of any length may be possessed. All bonito fillets possessed shall be considered a part of the allowable undersized tolerance of five bonito per day less than 24 inches fork length or weighing less than five pounds as provided in Section 28.32 of these regulations. All fillets shall bear intact a one-inch square patch of skin."
+    }
+   ]
+  },
+  {
+   "name": "California barracuda",
+   "group": "Pelagics",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "law",
+     false
+    ],
+    [
+     "cdfw",
+     false
+    ]
+   ],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Barracuda, California Year Round 28 in. total length, 17 in. alternate length 10 fish as part of 20 fish general bag limit §§27.60(a), 28.25"
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.25",
+     "quote": "Minimum size: Twenty-eight inches total length or seventeen inches alternate length."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(2) Barracuda: Fillets must be a minimum of 17 inches in length. Each fillet shall bear intact a one-inch square patch of silver skin."
+    }
+   ]
+  },
+  {
+   "name": "Mackerel (Pacific & jack)",
+   "group": "Pelagics",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "law",
+     true
+    ],
+    [
+     "cdfw",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Mackerel (Pacific Chub and Jack) Year Round None None §27.60(b)"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(b) There is no limit on the following species: anchovy, jacksmelt, topsmelt, Pacific butterfish (pompano), queenfish, sanddabs, skipjack, jack mackerel, Pacific mackerel, Pacific staghorn sculpin, round herring, Pacific sardine, petrale sole and starry flounder."
+    }
+   ]
+  },
+  {
+   "name": "Dorado (dolphinfish)",
+   "group": "Pelagics",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "law",
+     true
+    ],
+    [
+     "cdfw",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Dolphinfish (Dorado) Year Round None 10 fish as part of 20 fish general bag limit §27.60(a)"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(13) All other species except those listed in subsection (c) of this section: Each fillet shall bear intact a one-inch square patch of skin. The fillets may be of any size."
+    }
+   ]
+  },
+  {
+   "name": "Albacore",
+   "group": "Pelagics",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "cdfw",
+     true
+    ],
+    [
+     "law",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(1) South of a line running due west true from 34°27' N. lat. (at Point Conception, Santa Barbara County) – The special limit for albacore is 10, which may be taken or possessed in addition to the overall general daily bag limit of 20 finfish specified in subsection 27.60(a)."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(B) The fish must be cut into six pieces with all skin attached. These pieces are the four loins, the collar removed as one piece with both pectoral fins attached and intact, and the belly fillet cut to include the vent and with both pelvic fins attached and intact."
+    }
+   ]
+  },
+  {
+   "name": "Bluefin tuna",
+   "group": "Pelagics",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "cdfw",
+     true
+    ],
+    [
+     "law",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(b) Bluefin tuna The special limit for bluefin tuna is 2, which may be taken or possessed in addition to the overall general daily bag limit of 20 finfish specified in subsection 27.60(a). This limit applies to all bluefin tuna possessed, regardless of where taken."
+    },
+    {
+     "url": "https://wildlife.ca.gov/Fishing/Ocean/Regulations/Fishing-Map/Southern",
+     "quote": "The recreational fishery for tunas is open year-round."
+    }
+   ]
+  },
+  {
+   "name": "Skipjack tuna",
+   "group": "Pelagics",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "cdfw",
+     true
+    ],
+    [
+     "law",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Tuna, Skipjack Year Round None None §§27.60(b), 28.38(c)"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(c) There is no limit on skipjack tuna."
+    }
+   ]
+  },
+  {
+   "name": "Yellowfin/bigeye/other tuna",
+   "group": "Pelagics",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "cdfw",
+     true
+    ],
+    [
+     "law",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(d) For yellowfin tuna, bigeye tuna, and other tunas not listed above, the limit is 10. Unlike albacore and bluefin tuna, fish taken under this limit shall apply toward the overall general daily bag limit of 20 finfish specified in subsection 27.60(a)."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Tuna, Other (including Bigeye and Yellowfin) Year Round None 10 fish §§27.60(a), 28.38(d)"
+    }
+   ]
+  },
+  {
+   "name": "Wahoo",
+   "group": "Pelagics",
+   "confidence": "medium",
+   "verified_by": [
+    [
+     "cdfw",
+     true
+    ],
+    [
+     "law",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "No more than 20 finfish in combination of all species with not more than 10 of any one species, may be taken or possessed by any one person except as otherwise provided"
+    }
+   ]
+  },
+  {
+   "name": "Striped marlin",
+   "group": "Pelagics",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "law",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Marlin, (Black, Blue, and Striped) Year Round None 1 fish §28.50"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Such gear may not be possessed or used within 100 yards of the mouth of any stream in any ocean waters north of Ventura County, nor aboard any vessel on any day or on any trip when broadbill swordfish or marlin have been taken."
+    }
+   ]
+  },
+  {
+   "name": "Broadbill swordfish",
+   "group": "Pelagics",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "law",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Swordfish, Broadbill (T14 CCR §28.40) (a) Limit Two."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Persons who are floating or swimming in the water may use spearfishing gear and skin or scuba diving equipment to take fin fish other than giant (black) sea bass, garibaldi, gulf grouper, broomtail grouper, trout, salmon, or broadbill [swordfish], except that:"
+    }
+   ]
+  },
+  {
+   "name": "Jacksmelt",
+   "group": "Pelagics",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "law",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Jacksmelt Year Round None None §27.60(b)"
+    }
+   ]
+  },
+  {
+   "name": "Topsmelt",
+   "group": "Pelagics",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "law",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Topsmelt Year Round None None §27.60(b)"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Dip nets of any size and baited hoop nets not greater than 36 inches in diameter may be used to take herring, Pacific staghorn sculpin, shiner perch, true smelt, topsmelt, anchovies, shrimp and squid."
+    }
+   ]
+  },
+  {
+   "name": "Pacific sardine",
+   "group": "Pelagics",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "law",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Sardine, Pacific Year Round None None §27.60(b)"
+    }
+   ]
+  },
+  {
+   "name": "Northern anchovy",
+   "group": "Pelagics",
+   "confidence": "high",
+   "verified_by": [
+    [
+     "law",
+     true
+    ],
+    [
+     "cdfw",
+     true
+    ]
+   ],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Anchovy, Northern Year Round None None §27.60(b)"
+    }
+   ]
+  },
+  {
+   "name": "California halibut",
+   "group": "Flatfish & Surf",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.15",
+     "quote": "(A) In waters south of a line extending due west magnetic from Point Sur, Monterey County: Five"
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.15",
+     "quote": "(2) Minimum size: Twenty-two inches total length."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "must be a minimum of 16 and three-quarter inches in length and shall bear the entire skin intact."
+    }
+   ]
+  },
+  {
+   "name": "Pacific sanddab",
+   "group": "Flatfish & Surf",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "There is no limit on Pacific sanddab. The general bag limit of not more than 20 finfish in combination of all species with not more than 10 of any one species applies to rock sole, sand sole, butter sole, curlfin sole, rex sole, and flathead sole."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(a) Open year-round in all depths, except in the Groundfish Exclusion Areas where these species may not be taken or possessed at any time. See section 27.50."
+    }
+   ]
+  },
+  {
+   "name": "Soles (rock/sand/butter)",
+   "group": "Flatfish & Surf",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "The general bag limit of not more than 20 finfish in combination of all species with not more than 10 of any one species applies to rock sole, sand sole, butter sole, curlfin sole, rex sole, and flathead sole."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Sole (Rock, Sand, Butter, Curlfin, Rex, Flathead) Year Round None 10 fish as part of 20 fish general bag limit"
+    }
+   ]
+  },
+  {
+   "name": "Petrale sole / starry flounder",
+   "group": "Flatfish & Surf",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "There is no limit on petrale sole or starry flounder."
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.60",
+     "quote": "There is no limit on the following species: anchovy, jacksmelt, topsmelt, Pacific butterfish (pompano), queenfish, sanddabs, skipjack, jack mackerel, Pacific mackerel, Pacific staghorn sculpin, round herring, Pacific sardine, petrale sole and starry flounder."
+    }
+   ]
+  },
+  {
+   "name": "Other flatfish (turbots, C-O)",
+   "group": "Flatfish & Surf",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.60",
+     "quote": "No more than 20 finfish in combination of all species with not more than 10 of any one species, may be taken or possessed by any one person"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Regulations of this section do not apply to other species of sanddabs, flounders, or sole."
+    }
+   ]
+  },
+  {
+   "name": "Surfperch (all species)",
+   "group": "Flatfish & Surf",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.59",
+     "quote": "For all other areas, the aggregate limit is 20 surfperch, not including shiner perch. Not more than 10 surfperch may be of any one species."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Redtail surfperch, ten and one-half inches total length. All other surfperch, none."
+    }
+   ]
+  },
+  {
+   "name": "Redtail surfperch",
+   "group": "Flatfish & Surf",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Redtail surfperch, ten and one-half inches total length. All other surfperch, none."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "No person shall fillet, steak or cut into chunks on any boat or bring ashore as fillets, steaks or chunks the following: any species with a size limit unless a fillet size is otherwise specified in these regulations."
+    }
+   ]
+  },
+  {
+   "name": "Shiner perch",
+   "group": "Flatfish & Surf",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(2) The special limit for shiner perch is 20, which may be taken or possessed in addition to the overall daily bag limit of 20 finfish specified in subsection 27.60(a)."
+    }
+   ]
+  },
+  {
+   "name": "California corbina",
+   "group": "Flatfish & Surf",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Corbina, California Year Round None 10 fish as part of 20 fish general bag limit §27.60(a)"
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.60",
+     "quote": "No more than 20 finfish in combination of all species with not more than 10 of any one species, may be taken or possessed by any one person"
+    }
+   ]
+  },
+  {
+   "name": "Spotfin croaker",
+   "group": "Flatfish & Surf",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.60",
+     "quote": "No more than 20 finfish in combination of all species with not more than 10 of any one species, may be taken or possessed by any one person"
+    }
+   ]
+  },
+  {
+   "name": "Yellowfin croaker",
+   "group": "Flatfish & Surf",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.60",
+     "quote": "No more than 20 finfish in combination of all species with not more than 10 of any one species, may be taken or possessed by any one person"
+    }
+   ]
+  },
+  {
+   "name": "White croaker (tomcod)",
+   "group": "Flatfish & Surf",
+   "confidence": "medium",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.60",
+     "quote": "No more than 20 finfish in combination of all species with not more than 10 of any one species, may be taken or possessed by any one person"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "When advisories are based on PCBs or pesticides (DDTs or dieldrin) skin the fish, when possible; do not eat the skin, and trim any visible fat to reduce the levels of these chemicals."
+    }
+   ]
+  },
+  {
+   "name": "Salmon (Chinook)",
+   "group": "Flatfish & Surf",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.90",
+     "quote": "Persons who are floating or swimming in the water may use spearfishing gear and skin or SCUBA diving equipment to take fin fish other than giant (black) sea bass, garibaldi, gulf grouper, broomtail grouper, trout, salmon, or broadbill"
+    },
+    {
+     "url": "https://wildlife.ca.gov/Fishing/Ocean/Regulations/Fishing-Map/Southern",
+     "quote": "September 1, 2026 through September 30, 2026 or until 20,000 fish harvest guideline reached"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(A) Open to salmon fishing September 1 through 30.\n(B) Daily Bag Limit. 2 salmon per day."
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.80",
+     "quote": "No more than two daily bag limits may be possessed when on land. On a vessel in ocean waters, no person shall possess or bring ashore more than one daily bag limit"
+    }
+   ]
+  },
+  {
+   "name": "Striped bass",
+   "group": "Flatfish & Surf",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(b) Limit \nTwo.\n(c) Minimum size\n(1) North of Pt. Conception, 18 inches total length.\n(2) South of Pt. Conception, no minimum size limit."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Striped bass may only be taken by angling as defined in Section 1.05, Title 14, CCR, spearfishing pursuant to Section 1.76, and bow and arrow fishing tackle; snagging is an illegal method of take."
+    }
+   ]
+  },
+  {
+   "name": "Leopard shark",
+   "group": "Sharks & Rays",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Shark, Leopard (T14 CCR §28.56)\n(a) Open year-round in all depths, except in the Groundfish Exclusion Areas where leopard shark may not be taken or possessed at any time. See Section 27.50. \n(b) Limit \nThree.\n(c) Minimum size \n36 inches total length."
+    },
+    {
+     "url": "https://wildlife.ca.gov/Fishing/Ocean/Regulations/Fishing-Map/Southern",
+     "quote": "Leopard Shark"
+    }
+   ]
+  },
+  {
+   "name": "Soupfin shark",
+   "group": "Sharks & Rays",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(1) The limit on soupfin shark is one fish."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Shark, Soupfin Year Round None 1 fish"
+    }
+   ]
+  },
+  {
+   "name": "Shortfin mako shark",
+   "group": "Sharks & Rays",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.42",
+     "quote": "Limit: Two of each species."
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.95",
+     "quote": "Spears, harpoons and bow and arrow fishing tackle may be used for taking all varieties of skates, rays, and sharks, except white sharks."
+    }
+   ]
+  },
+  {
+   "name": "Thresher shark",
+   "group": "Sharks & Rays",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.42",
+     "quote": "Limit: Two of each species."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Shark (Mako, Thresher, and Blue) Year Round None 2 of each species §28.42"
+    }
+   ]
+  },
+  {
+   "name": "Blue shark",
+   "group": "Sharks & Rays",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.42",
+     "quote": "Limit: Two of each species."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Shark (Mako, Thresher, and Blue) Year Round None 2 of each species §28.42"
+    }
+   ]
+  },
+  {
+   "name": "Sixgill shark",
+   "group": "Sharks & Rays",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.41",
+     "quote": "Limit: One of each species."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Shark, Sixgill and Sevengill Year Round None 1 of each species §28.41"
+    }
+   ]
+  },
+  {
+   "name": "Broadnose sevengill shark",
+   "group": "Sharks & Rays",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.41",
+     "quote": "Limit: One of each species."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Shark, Sixgill and Sevengill Year Round None 1 of each species §28.41"
+    }
+   ]
+  },
+  {
+   "name": "White shark",
+   "group": "Sharks & Rays",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.06",
+     "quote": "White shark may not be taken, except under permit issued by the Department pursuant to Section 1002 of the Fish and Game Code for scientific or educational purposes."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(b) If taken, white shark shall be released immediately and shall not be removed from the water, except when taken under permit issued by the Department pursuant to Section 1002 of the Fish and Game Code for scientific or educational purposes."
+    }
+   ]
+  },
+  {
+   "name": "Bat ray",
+   "group": "Sharks & Rays",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.60",
+     "quote": "No more than 20 finfish in combination of all species with not more than 10 of any one species, may be taken or possessed by any one person"
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.95",
+     "quote": "Spears, harpoons and bow and arrow fishing tackle may be used for taking all varieties of skates, rays, and sharks, except white sharks."
+    }
+   ]
+  },
+  {
+   "name": "Shovelnose guitarfish",
+   "group": "Sharks & Rays",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.60",
+     "quote": "No more than 20 finfish in combination of all species with not more than 10 of any one species, may be taken or possessed by any one person"
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.95",
+     "quote": "Spears, harpoons and bow and arrow fishing tackle may be used for taking all varieties of skates, rays, and sharks, except white sharks."
+    }
+   ]
+  },
+  {
+   "name": "Pacific angel shark",
+   "group": "Sharks & Rays",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.60",
+     "quote": "No more than 20 finfish in combination of all species with not more than 10 of any one species, may be taken or possessed by any one person"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Regulations of this section do not apply to other species of flounders, sole, sharks, or codlings unless otherwise specified."
+    }
+   ]
+  },
+  {
+   "name": "Horn shark",
+   "group": "Sharks & Rays",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.60",
+     "quote": "No more than 20 finfish in combination of all species with not more than 10 of any one species, may be taken or possessed by any one person"
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.95",
+     "quote": "Spears, harpoons and bow and arrow fishing tackle may be used for taking all varieties of skates, rays, and sharks, except white sharks."
+    }
+   ]
+  },
+  {
+   "name": "Swell shark",
+   "group": "Sharks & Rays",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.60",
+     "quote": "No more than 20 finfish in combination of all species with not more than 10 of any one species, may be taken or possessed by any one person"
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.95",
+     "quote": "Spears, harpoons and bow and arrow fishing tackle may be used for taking all varieties of skates, rays, and sharks, except white sharks."
+    }
+   ]
+  },
+  {
+   "name": "Smoothhounds (gray/brown)",
+   "group": "Sharks & Rays",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.60",
+     "quote": "No more than 20 finfish in combination of all species with not more than 10 of any one species, may be taken or possessed by any one person"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Regulations of this section do not apply to other species of flounders, sole, sharks, or codlings unless otherwise specified."
+    }
+   ]
+  },
+  {
+   "name": "Skates (big/CA/longnose)",
+   "group": "Sharks & Rays",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Skates (Big, California, and Longnose) Year Round None 10 fish as part of 20 fish general bag limit"
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.95",
+     "quote": "Spears, harpoons and bow and arrow fishing tackle may be used for taking all varieties of skates, rays, and sharks, except white sharks."
+    }
+   ]
+  },
+  {
+   "name": "Spiny dogfish",
+   "group": "Sharks & Rays",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(2) The general bag limit of not more than 20 finfish in combination of all species with not more than 10 of any one species applies to Dover sole, English sole, arrowtooth flounder, spiny dogfish, all skates, ratfish, all grenadiers, finescale codling, Pacific cod, Pacific whiting, sablefish, longspine thornyhead and shortspine thornyhead."
+    }
+   ]
+  },
+  {
+   "name": "California spiny lobster",
+   "group": "Lobster & Inverts",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "From 6:00 p.m. on the Friday preceding the first Wednesday in October through the first Wednesday after the 15th of March. (b) Limit Seven. (c) Minimum size 3 and ¼ inches measured in a straight line on the mid-line of the back from the rear edge of the eye socket to the rear edge of the body shell."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Friday October 2, 2026, 6:00 p.m. Wednesday March 17, 2027"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "skin and scuba divers may take crustaceans by the use of the hands only. Divers may not possess any hooked device while diving or attempting to dive. Divers may be in possession of spearfishing equipment so long as possession of such equipment is otherwise lawful and is not being used to aid in the take of crustaceans."
+    },
+    {
+     "url": "https://wildlife.ca.gov/Fishing/Ocean/Regulations/Fishing-Map/Southern",
+     "quote": "The recreational fishery for spiny lobster (Panulirus interruptus) is closed as of March 19, 2026 and will reopen on Friday, October 2, 2026 at 6:00 p.m."
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-1.74",
+     "quote": "Report card holders shall return or report their lobster report cards pursuant to subsection 1.74(e) by April 30 following the close of the lobster season for which the card was issued."
+    }
+   ]
+  },
+  {
+   "name": "Rock crabs (red/yellow/brown)",
+   "group": "Lobster & Inverts",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(c) All crabs of the Cancer genus except Dungeness crabs, but including: yellow crabs, rock crabs, red crabs and slender crabs: (1) Open season: All year. ... (2) Limit: Thirty-five. (3) Minimum size: Four inches measured by the shortest distance through the body, from edge of shell to edge of shell at the widest part"
+    },
+    {
+     "url": "https://wildlife.ca.gov/Fishing/Ocean/Regulations/Fishing-Map/Southern",
+     "quote": "The recreational fishery for all rock crab species, including red crab (Cancer productus), yellow crab (Metacarcinus anthonyi) and brown crab (Romaleon antennarium) is open year-round, statewide. The daily bag limit is 35 crab, and the minimum size limit is 4 inches."
+    }
+   ]
+  },
+  {
+   "name": "Sheep crab (spider crab)",
+   "group": "Lobster & Inverts",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Crab, Other Year Round None 35 crabs §29.05"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "The bag limit on all invertebrates for which the take is authorized and for which there is not a bag limit otherwise established in this article is 35."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Hoop nets may be used to take spiny lobsters and all species of crabs."
+    }
+   ]
+  },
+  {
+   "name": "Rock scallop",
+   "group": "Lobster & Inverts",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Scallops, Rock (T14 CCR §29.60) (a) Limit: Ten. (b) Methods of take: Rock scallops may be taken only by hand, by the use of dive knives, or by devices commonly known as abalone irons"
+    }
+   ]
+  },
+  {
+   "name": "Red sea urchin",
+   "group": "Lobster & Inverts",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(a) Except as provided in this section, the daily bag limit for sea urchin is 35 individuals for each species."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Sea Urchin, Red Year Round None Statewide: 35 sea urchins §29.05"
+    }
+   ]
+  },
+  {
+   "name": "Purple sea urchin",
+   "group": "Lobster & Inverts",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(b) The daily bag limit for purple sea urchin is forty (40) gallons when taken while skin or scuba diving in ocean waters of the following counties: Humboldt, Mendocino, and Sonoma. (c) There is no possession limit for purple sea urchin."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Sea Urchin, Purple Year Round None Statewide: 35 sea urchins with no possession limit, see exceptions under §29.06"
+    }
+   ]
+  },
+  {
+   "name": "Octopus",
+   "group": "Lobster & Inverts",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(a) Except as otherwise provided in this article, saltwater mollusks, including octopus, may be taken only on hook and line or with the hands."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Octopus, All Year Round None 35 octopus §29.05"
+    }
+   ]
+  },
+  {
+   "name": "Warty sea cucumber",
+   "group": "Lobster & Inverts",
+   "confidence": "medium",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "The bag limit on all invertebrates for which the take is authorized and for which there is not a bag limit otherwise established in this article is 35."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "tidal invertebrates may not be taken in any tidepool or other areas between the high tide mark (defined as Mean Higher High Tide) and 1,000 feet seaward and lateral to the low tide mark (defined as Mean Lower Low Water) except as follows"
+    },
+    {
+     "url": "https://marinespecies.wildlife.ca.gov/warty-sea-cucumber/management/",
+     "quote": "Current regulations only authorize the use of hands to harvest sea cucumber, a daily bag limit of 35 individuals, and a requirement that all recreational take must occur greater than 1,000 ft (305 m) from the nearest shoreline."
+    }
+   ]
+  },
+  {
+   "name": "Market squid",
+   "group": "Lobster & Inverts",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Squid, Market and Jumbo (T14 CCR §29.70) Squid may be taken with hand-held dip nets. There is no limit."
+    }
+   ]
+  },
+  {
+   "name": "Mussels (California & bay)",
+   "group": "Lobster & Inverts",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Mussels (T14 CCR §29.55) Limit: Ten pounds (in the shell) of California sea mussels and bay mussels in combination."
+    },
+    {
+     "url": "https://www.cdph.ca.gov/Programs/OPA/Pages/SN26-008.aspx",
+     "quote": "The quarantine begins May 1 and applies to all species of mussels that are recreationally harvested for human consumption along the California coast, including all bays and estuaries. During the quarantine, mussels may only be harvested for use as bait."
+    },
+    {
+     "url": "https://www.cdph.ca.gov/Programs/CEH/DRSEM/Pages/EMB/Shellfish/Annual-Mussel-Quarantine.aspx",
+     "quote": "The annual quarantine is normally in effect from May 1 through October 31."
+    }
+   ]
+  },
+  {
+   "name": "Pismo clam",
+   "group": "Lobster & Inverts",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "In all other counties, except in state marine reserves or other marine protected areas which prohibit the take of clams (see Section 632), Pismo clams may be taken at any time of the year. (b) Limit Ten. (c) Minimum size Five inches in greatest shell diameter north of the boundary between San Luis Obispo and Monterey counties; four and one-half inches in greatest shell diameter south of the boundary"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(b) Fishing hours One-half hour before sunrise to one-half hour after sunset."
+    }
+   ]
+  },
+  {
+   "name": "Littleneck/chione/cockle clams",
+   "group": "Lobster & Inverts",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Clams - Littleneck, Soft-Shell, Chiones, Northern Quahogs, and Cockles (T14 CCR §29.35) (a) Limit Fifty in combination. (b) Minimum size One and one-half inches in greatest diameter, except there is no size limit for soft-shell clams."
+    }
+   ]
+  },
+  {
+   "name": "Gaper & Washington clams",
+   "group": "Lobster & Inverts",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Limit: Ten of each species, except in Humboldt Bay the limit is fifty in combination; however, no more than 25 gaper clams may be taken or possessed. In Elkhorn Slough the limit is twelve in combination. All gaper clams and Washington clams dug, regardless of size or broken condition, must be retained until the bag limit is reached."
+    }
+   ]
+  },
+  {
+   "name": "Abalone (all species)",
+   "group": "Lobster & Inverts",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Abalone (T14 CCR §29.15) (a) All ocean waters are closed to the take of abalone. Abalone may not be taken or possessed."
+    },
+    {
+     "url": "https://wildlife.ca.gov/Fishing/Ocean/Regulations/Fishing-Map/Southern",
+     "quote": "The recreational fishery for red abalone (Haliotis rufescens) is closed year-round south of the mouth of San Francisco Bay. No species of abalone may be taken at any time in Southern California."
+    }
+   ]
+  },
+  {
+   "name": "Kellet's whelk",
+   "group": "Lobster & Inverts",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Whelk, Kellet's (T14 CCR §29.17) (a) Open Season From July 1 through the first Wednesday after the 15th of March."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Whelk, Kellet's July 1 through the first Wednesday after the 15th of March None 35 whelks §§29.17, 29.05(a)"
+    }
+   ]
+  },
+  {
+   "name": "Moon snail",
+   "group": "Lobster & Inverts",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Snails, Moon (T14 CCR §29.71) (a) Limit Five. (b) Open season All year except that moon snails may not be taken north of the Golden Gate Bridge."
+    }
+   ]
+  },
+  {
+   "name": "Limpets",
+   "group": "Lobster & Inverts",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Limpets, All Year Round None 35 limpets §29.05"
+    }
+   ]
+  },
+  {
+   "name": "Kelp & marine plants",
+   "group": "Lobster & Inverts",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "The daily bag limit on all marine aquatic plants for which the take is authorized, except as provided in Section 28.60, is 10 pounds wet weight in the aggregate."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Prohibited Species (T14 CCR §30.10) No eel grass (Zostera), surf grass (Phyllospadix), or sea palm (Postelsia) may be cut or disturbed."
+    }
+   ]
+  },
+  {
+   "name": "Speckled (bay) scallop",
+   "group": "Lobster & Inverts",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Scallops, Speckled (Bay) (T14 CCR §29.65) May not be taken or possessed."
+    }
+   ]
+  },
+  {
+   "name": "Other invertebrates (general)",
+   "group": "Lobster & Inverts",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(a) Except as provided in this article there are no closed seasons, closed hours or minimum size limits for any invertebrate. The bag limit on all invertebrates for which the take is authorized and for which there is not a bag limit otherwise established in this article is 35."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "only the following may be taken: red abalone, limpets, moon snails, turban snails, chiones, clams, cockles, mussels, rock scallops, native oysters, octopuses, squid, crabs, lobsters, shrimp, sand dollars, sea urchins and worms"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Every person while taking invertebrates which have a size limit shall carry a device which is capable of accurately measuring the minimum legal size of the species taken."
+    }
+   ]
+  },
+  {
+   "name": "License & Ocean Enhancement",
+   "group": "Rules & Spearfishing",
+   "confidence": "medium",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Any person who is 16 years of age or older must have a sport fishing license to take any kind of fish, mollusk, invertebrate, amphibian or crustacean in California, except for persons fishing from a public pier in ocean or bay waters."
+    },
+    {
+     "url": "https://wildlife.ca.gov/Licensing/Fishing",
+     "quote": "Required to fish in ocean waters south of Point Arguello (Santa Barbara County)."
+    },
+    {
+     "url": "https://wildlife.ca.gov/Licensing/Fishing",
+     "quote": "An Ocean Enhancement Validation is not required when fishing under the authority of a One or Two-Day Sport Fishing License."
+    }
+   ]
+  },
+  {
+   "name": "General finfish bag limit",
+   "group": "Rules & Spearfishing",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.60",
+     "quote": "No more than 20 finfish in combination of all species with not more than 10 of any one species, may be taken or possessed"
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.60",
+     "quote": "anchovy, jacksmelt, topsmelt, Pacific butterfish (pompano), queenfish, sanddabs, skipjack, jack mackerel, Pacific mackerel, Pacific staghorn sculpin, round herring, Pacific sardine, petrale sole and starry flounder"
+    }
+   ]
+  },
+  {
+   "name": "Spear-prohibited species",
+   "group": "Rules & Spearfishing",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.90",
+     "quote": "Persons who are floating or swimming in the water may use spearfishing gear and skin or SCUBA diving equipment to take fin fish other than giant (black) sea bass, garibaldi, gulf grouper, broomtail grouper, trout, salmon, or broadbill"
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "The taking of fish by spear or hand by persons who are in the water and may be using underwater goggles, face plates, breathing tubes, scuba or other artificial underwater breathing device."
+    }
+   ]
+  },
+  {
+   "name": "Spears & harpoons (§28.95)",
+   "group": "Rules & Spearfishing",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.95",
+     "quote": "Spears, harpoons and bow and arrow fishing tackle may be used for taking all varieties of skates, rays, and sharks, except white sharks. Harpoons may be used to assist in taking Pacific halibut as specified in Section 28.20."
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.95",
+     "quote": "nor aboard any vessel on any day or on any trip when broadbill swordfish or marlin have been taken"
+    }
+   ]
+  },
+  {
+   "name": "Diver groundfish exemption",
+   "group": "Rules & Spearfishing",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.20",
+     "quote": "When diving or spearfishing, as authorized in Section 28.90, all species, except those listed in subsection 28.55(b)(1), may be taken or possessed year-round. When boat-based groundfish fishing is closed, all types of fishing gear, except spearfishing gear, are prohibited to be aboard the vessel or watercraft (motorized or non-motorized) when taking or possessing these species under this provision."
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-28.55",
+     "quote": "The limit on bronzespotted rockfish, cowcod, quillback rockfish, and yelloweye rockfish is zero. These species shall not be taken or possessed as part of the RCG limit."
+    },
+    {
+     "url": "https://wildlife.ca.gov/Fishing/Ocean/Regulations/Groundfish-Summary",
+     "quote": "Updated June 23, 2026."
+    }
+   ]
+  },
+  {
+   "name": "Fillet rules (§27.65)",
+   "group": "Rules & Spearfishing",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.65",
+     "quote": "No person shall fillet on any boat or bring ashore as fillets any fish, except in accordance with the following requirements:"
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.65",
+     "quote": "Fillets must be a minimum of 6 and three-quarter inches in length and shall bear the entire skin intact."
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.65",
+     "quote": "Fillets must be a minimum of 19 inches in length. Each fillet shall bear intact a one-inch square patch of silver skin."
+    }
+   ]
+  },
+  {
+   "name": "Length definitions (TL/FL/AL)",
+   "group": "Rules & Spearfishing",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-1.62",
+     "quote": "the longest straight-line measurement from the tip of the head to the end of the longest lobe of the tail."
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-1.62",
+     "quote": "the straight-line distance from the base of the foremost spine of the first dorsal fin to the end of the longest lobe of the tail."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "(2) Diving or Spearfishing: When diving or spearfishing, California sheephead may be taken and/or possessed year-round. During the closed season, January 1 through the last day in February, all types of fishing gear, except spearfishing gear, are prohibited to be aboard the vessel or watercraft (motorized or non-motorized) when taking and/or possessing California sheephead under this provision."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Twenty-eight inches total length or twenty and one-half inches alternate length."
+    }
+   ]
+  },
+  {
+   "name": "Lobster report card & gauge",
+   "group": "Rules & Spearfishing",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-29.80",
+     "quote": "skin and SCUBA divers may take crustaceans by the use of the hands only."
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-29.80",
+     "quote": "Divers may not possess any hooked device while diving or attempting to dive."
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-29.90",
+     "quote": "From 6:00 p.m. on the Friday preceding the first Wednesday in October through the first Wednesday after the 15th of March."
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-29.91",
+     "quote": "In the case of a person diving from a boat, the report card may be kept in the boat, or in the case of a person diving from the shore, the report card may be kept within 500 yards from the point of entry."
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-29.05",
+     "quote": "Every person while taking invertebrates which have a size limit shall carry a device which is capable of accurately measuring the minimum legal size of the species taken."
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-1.74",
+     "quote": "by April 30 following the close of the lobster season for which the card was issued"
+    }
+   ]
+  },
+  {
+   "name": "Marine Protected Areas",
+   "group": "Rules & Spearfishing",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-632",
+     "quote": "In a state marine reserve, it is unlawful to injure, damage, take, or possess any living, geological, or cultural marine resource, except under a scientific collecting permit issued by the department."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Spearfishermen with or without catch shall be allowed to transit through MPAs and MMAs. While transiting MPAs and MMAs that prohibit spearfishing or while in possession of species not identified as allowed for take in the MPA or MMA being transited, spearfishing gear shall be in an unloaded condition, not carried in hand, and the diver shall remain at the surface."
+    },
+    {
+     "url": "https://wildlife.ca.gov/Conservation/Marine/MPAs",
+     "quote": "However, it is ultimately up to the user to determine if they are in an MPA."
+    }
+   ]
+  },
+  {
+   "name": "Hours of take (day/night)",
+   "group": "Rules & Spearfishing",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Except as otherwise provided, there are no closed seasons, closed hours or minimum size limits on fin fish in the Pacific Ocean including all saltwater bays except that in San Francisco Bay"
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-29.05",
+     "quote": "Except as provided in this article there are no closed seasons, closed hours or minimum size limits for any invertebrate."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Hoop nets shall not be deployed and used in ocean waters south of Point Arguello, Santa Barbara County, during the 24-hour period prior to the opening of the recreational spiny lobster season."
+    }
+   ]
+  },
+  {
+   "name": "Mexican waters not covered",
+   "group": "Rules & Spearfishing",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": false,
+   "citations": [
+    {
+     "url": "https://wildlife.ca.gov/Enforcement/Entry-Declaration",
+     "quote": "It shall be unlawful to import any dead birds, mammals, fish, reptiles, or amphibians into this state, or to possess the same, unless accompanied by a completed form DFW 901."
+    },
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "Two per angler per trip when fishing south of United States-Mexico border. A valid fishing permit or license from the Mexican government constitutes proof that fish were taken legally."
+    }
+   ]
+  },
+  {
+   "name": "Descending device (boats)",
+   "group": "Rules & Spearfishing",
+   "confidence": "high",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-27.20",
+     "quote": "No person shall take or possess any federal groundfish as defined in Section 1.91 and all greenlings of the genus Hexagrammos from any boat or other floating device in ocean waters without having a descending device in possession and available for immediate use to assist in releasing rockfish to the depth of capture."
+    }
+   ]
+  },
+  {
+   "name": "Harbors & bays",
+   "group": "Rules & Spearfishing",
+   "confidence": "low",
+   "verified_by": [],
+   "edited": true,
+   "citations": [
+    {
+     "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=239985&inline",
+     "quote": "The Ocean and San Francisco Bay District consists of the"
+    },
+    {
+     "url": "https://www.law.cornell.edu/regulations/california/14-CCR-2.30",
+     "quote": "Refer to all county, city, and/or local regulations and ordinances to confirm if use and/or possession of projectile weapons is prohibited."
+    }
+   ]
+  }
+ ]
+}

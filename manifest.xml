@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<iq:manifest xmlns:iq="http://www.garmin.com/xml/connectiq" version="3">
+    <iq:application id="a881f26e89594daca69ba78bbc3dd036" type="watch-app" name="@Strings.AppName"
+                    entry="FishRegsApp" launcherIcon="@Drawables.LauncherIcon"
+                    minApiLevel="3.3.0">
+        <!-- Sideloaded (copy bin/FishRegs.prg to GARMIN/APPS). Read-only reference app:
+             no sensors, no comms, no permissions. -->
+        <iq:products>
+            <iq:product id="descentg2"/>
+        </iq:products>
+        <iq:permissions/>
+        <iq:languages>
+            <iq:language>eng</iq:language>
+        </iq:languages>
+    </iq:application>
+</iq:manifest>

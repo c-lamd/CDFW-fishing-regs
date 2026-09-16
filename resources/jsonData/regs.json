@@ -1,0 +1,1145 @@
+{
+"asof": "2026-09-15",
+"fish": [
+{
+"name": "Kelp bass (calico)",
+"group": "Bass & Reef Fish",
+"bag": "5 combined w/ sand bass (max 4 barred sand bass)",
+"size": "14 in TL or 10 in alt length",
+"season": "All year",
+"spear": "OK",
+"notes": "Combined limit with barred and spotted sand bass. Fillets min 7.5 in w/ 1 in sq skin patch. Alt length = base of first dorsal spine to tail tip. Sub-limit of 4 barred sand bass sunsets Jun 1, 2028.",
+"src": "14 CCR §28.30, §27.65(b)"
+},
+{
+"name": "Barred sand bass",
+"group": "Bass & Reef Fish",
+"bag": "Max 4, within 5 combined w/ kelp & spotted sand bass",
+"size": "14 in TL or 10 in alt length",
+"season": "All year",
+"spear": "OK",
+"notes": "4-fish sub-limit (2025 rule, sunsets Jun 1, 2028) inside the 5-fish bass combo. Fillets min 7.5 in w/ 1 in sq skin patch. Cornell LII text is stale (2013) and omits the sub-limit; booklet and CDFW summary carry it.",
+"src": "14 CCR §28.30(c), §27.65(b)"
+},
+{
+"name": "Spotted sand bass",
+"group": "Bass & Reef Fish",
+"bag": "5 combined w/ kelp & barred sand bass",
+"size": "14 in TL or 10 in alt length",
+"season": "All year",
+"spear": "OK",
+"notes": "Shares the 5-fish bass combo (only barred sand bass has the extra 4-fish cap). Mostly bays/harbors - check MPA and harbor rules. Fillets min 7.5 in w/ 1 in sq skin patch.",
+"src": "14 CCR §28.30, §27.65(b)"
+},
+{
+"name": "White seabass",
+"group": "Bass & Reef Fish",
+"bag": "3; only 1 south of Pt Conception Mar 15 - Jun 15",
+"size": "28 in TL or 20.5 in alt length",
+"season": "All year (1-fish limit Mar 15 - Jun 15 in SoCal)",
+"spear": "OK",
+"notes": "Whole SoCal region is south of Pt Conception: 1 fish/day Mar 15-Jun 15. Fillets min 19 in w/ 1 in sq patch of silver skin. Alt length: CCR text says 20.5 in; booklet table prints 21.5 and CDFW web summary 20 - regulation text governs. Some MPAs (SMCAs) allow WSB by spear only - check MPA.",
+"src": "14 CCR §28.35, §27.65(b)(4)"
+},
+{
+"name": "Giant (black) sea bass",
+"group": "Bass & Reef Fish",
+"bag": "0 - no take",
+"size": "N/A",
+"season": "Closed",
+"spear": "PROHIBITED - no take at all",
+"notes": "May not be taken off California; any incidental catch must be returned immediately where taken. Also named in §28.90 as a species spear gear may not be used on. Only fish legally taken in Mexico (2/angler/trip, Mexican permit as proof) may be possessed.",
+"src": "14 CCR §28.10, §28.90"
+},
+{
+"name": "California sheephead",
+"group": "Bass & Reef Fish",
+"bag": "2",
+"size": "12 in TL",
+"season": "All year for divers & shore; boat anglers Mar 1 - Dec 31",
+"spear": "OK; divers exempt from Jan-Feb boat closure",
+"notes": "Jan 1-last day of Feb closed to boat-based hook-and-line. Divers may take year-round, but during Jan-Feb NO fishing gear other than spearfishing gear may be aboard the vessel/kayak. Fillets min 6.75 in, entire skin intact. Nearshore stock - CDFW may change rules in-season (§52.10).",
+"src": "14 CCR §28.26, §27.65(b)(12)"
+},
+{
+"name": "Ocean whitefish",
+"group": "Bass & Reef Fish",
+"bag": "10 (part of 20-fish general limit)",
+"size": "None",
+"season": "All year, all depths",
+"spear": "OK",
+"notes": "Open year-round in all depths; not tied to groundfish season. Fillets min 6.5 in with entire skin intact.",
+"src": "14 CCR §28.58, §27.60(a), §27.65(b)(10)"
+},
+{
+"name": "CA scorpionfish (sculpin)",
+"group": "Bass & Reef Fish",
+"bag": "5",
+"size": "None",
+"season": "All year, all depths (except Groundfish Exclusion Areas)",
+"spear": "OK",
+"notes": "Federal groundfish but exempt from season/depth closures; not in the RCG 10. No take in the 8 SoCal Groundfish Exclusion Areas (offshore banks, §27.50). Boat/kayak: descending device must be aboard when possessing (§27.20(b)(2)). Venomous spines. Fillets: entire skin attached.",
+"src": "14 CCR §28.54, §27.50, §27.20(b)(2)"
+},
+{
+"name": "Garibaldi",
+"group": "Bass & Reef Fish",
+"bag": "0 - no take",
+"size": "N/A",
+"season": "Closed",
+"spear": "PROHIBITED - no take at all",
+"notes": "May not be taken or possessed (state marine fish). Also expressly excluded from spearfishing gear in §28.90 and bow-and-arrow in §28.95. Bright orange, common on every SoCal reef - do not shoot.",
+"src": "14 CCR §28.05, §28.90, §28.95"
+},
+{
+"name": "Gulf & broomtail grouper",
+"group": "Bass & Reef Fish",
+"bag": "0 - no take",
+"size": "N/A",
+"season": "Closed",
+"spear": "PROHIBITED - no take at all",
+"notes": "Both species may not be taken or possessed; regulated together in §28.12 and named in the §28.90 spear-gear exclusion. Rare warm-water visitors to SoCal - if unsure of a large grouper ID, do not shoot.",
+"src": "14 CCR §28.12, §28.90"
+},
+{
+"name": "Other groupers (cabrilla)",
+"group": "Bass & Reef Fish",
+"bag": "10 (part of 20-fish general limit)",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Groupers OTHER than broomtail, gulf and giant sea bass (e.g. spotted cabrilla) fall under the general finfish limit. No species-specific section. Fillets: 1 in sq skin patch. Positive ID essential - broomtail/gulf grouper and giant sea bass are no-take.",
+"src": "14 CCR §27.60(a)"
+},
+{
+"name": "Opaleye",
+"group": "Bass & Reef Fish",
+"bag": "10 (part of 20-fish general limit)",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "No species-specific section in Title 14 or the 2026 booklet; general finfish limit §27.60(a) applies (20 total, max 10 of one species). Fillets: 1 in sq skin patch, any size.",
+"src": "14 CCR §27.60(a)"
+},
+{
+"name": "Halfmoon",
+"group": "Bass & Reef Fish",
+"bag": "10 (part of 20-fish general limit)",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "No species-specific section in Title 14 or the 2026 booklet; general finfish limit §27.60(a) applies (20 total, max 10 of one species). Fillets: 1 in sq skin patch, any size.",
+"src": "14 CCR §27.60(a)"
+},
+{
+"name": "Sargo",
+"group": "Bass & Reef Fish",
+"bag": "10 (part of 20-fish general limit)",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "No species-specific section in Title 14 or the 2026 booklet; general finfish limit §27.60(a) applies (20 total, max 10 of one species). Fillets: 1 in sq skin patch, any size.",
+"src": "14 CCR §27.60(a)"
+},
+{
+"name": "Black croaker",
+"group": "Bass & Reef Fish",
+"bag": "10 (part of 20-fish general limit)",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "No species-specific section in Title 14 or the 2026 booklet; general finfish limit §27.60(a) applies (20 total, max 10 of one species). Fillets: 1 in sq skin patch. Do not confuse with white croaker (OEHHA consumption advisories in parts of LA/OC).",
+"src": "14 CCR §27.60(a)"
+},
+{
+"name": "Rockfish (RCG complex)",
+"group": "Rockfish & Groundfish",
+"bag": "10 combined RCG (all rockfish+cabezon+greenling)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Divers/shore exempt from boat season/depth rules (§27.20(b)(1)(D)). Sub-limits: copper 1, verm/sunset 2, canary 2; bronzespotted/cowcod/quillback/yelloweye 0. 8 offshore Groundfish Exclusion Areas closed to all (§27.50). Boat season closed: only spear gear aboard (§28.90(b)). Fillets whole skin.",
+"src": "§28.55, §27.45, §27.20(b)(1)(D)"
+},
+{
+"name": "Vermilion/sunset rockfish",
+"group": "Rockfish & Groundfish",
+"bag": "2 combined verm+sunset (within 10 RCG)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun, Jul-Sep <50 fm, Oct-Dec >50 fm, Jan-Mar closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Regulated as one unit; sunset is near-identical to vermilion. Shelf rockfish (§1.91(a)(3)): boat Oct-Dec only seaward of 50 fm. Sub-limit applies regardless of where taken. ID: rough chin, mottled red; canary has smooth chin and clear lateral line.",
+"src": "§28.55(b)(2)(B)"
+},
+{
+"name": "Copper rockfish",
+"group": "Rockfish & Groundfish",
+"bag": "1 (within 10 RCG)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Nearshore rockfish (§1.91(a)(1)): boat closed Oct-Dec. Statewide 1-fish sub-limit. ID caution: quillback (0 limit) and brown rockfish look similar; copper has pale lateral-line stripe on rear 2/3 of body.",
+"src": "§28.55(b)(3)"
+},
+{
+"name": "Canary rockfish",
+"group": "Rockfish & Groundfish",
+"bag": "2 (within 10 RCG)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun, Jul-Sep <50 fm, Oct-Dec >50 fm, Jan-Mar closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Retention allowed in 2026 with 2-fish sub-limit (booklet §28.55(b)(4)); Cornell CCR mirror lacks (b)(4). Shelf rockfish: boat Oct-Dec only >50 fm. ID: orange w/ 3 orange bands on head, smooth chin, gray/clear lateral line; do not confuse with yelloweye (0 limit).",
+"src": "§28.55(b)(4)"
+},
+{
+"name": "Bocaccio",
+"group": "Rockfish & Groundfish",
+"bag": "10 combined RCG (no sub-limit)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun, Jul-Sep <50 fm, Oct-Dec >50 fm, Jan-Mar closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Shelf rockfish (§1.91(a)(3)); no species sub-limit in 2026, counts toward 10 RCG. Boat Oct-Dec only seaward of 50 fm. Juveniles common in SoCal kelp/structure.",
+"src": "§28.55, §1.91(a)(3)"
+},
+{
+"name": "Treefish",
+"group": "Rockfish & Groundfish",
+"bag": "10 combined RCG (no sub-limit)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Nearshore rockfish (§1.91(a)(1)): boat closed Oct-Dec and Jan-Mar. Counts toward 10 RCG. Common SoCal reef/kelp species.",
+"src": "§28.55, §1.91(a)(1)"
+},
+{
+"name": "Gopher rockfish",
+"group": "Rockfish & Groundfish",
+"bag": "10 combined RCG (no sub-limit)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Nearshore rockfish: boat closed Oct-Dec and Jan-Mar. Counts toward 10 RCG. ID: near-identical to black-and-yellow (gopher blotches pinkish/whitish, black-and-yellow yellowish); same limit so ID error is not a citation.",
+"src": "§28.55, §1.91(a)(1)"
+},
+{
+"name": "Black-and-yellow rockfish",
+"group": "Rockfish & Groundfish",
+"bag": "10 combined RCG (no sub-limit)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Nearshore rockfish: boat closed Oct-Dec and Jan-Mar. Counts toward 10 RCG. Shallow reef species, common at Channel Islands.",
+"src": "§28.55, §1.91(a)(1)"
+},
+{
+"name": "Kelp rockfish",
+"group": "Rockfish & Groundfish",
+"bag": "10 combined RCG (no sub-limit)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Nearshore rockfish: boat closed Oct-Dec and Jan-Mar. Counts toward 10 RCG. Most common rockfish in SoCal kelp beds; ID vs brown rockfish (both same limit).",
+"src": "§28.55, §1.91(a)(1)"
+},
+{
+"name": "Grass rockfish",
+"group": "Rockfish & Groundfish",
+"bag": "10 combined RCG (no sub-limit)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Nearshore rockfish: boat closed Oct-Dec and Jan-Mar. Counts toward 10 RCG. Very shallow (intertidal to 50 ft) reef species, prime shore-dive target.",
+"src": "§28.55, §1.91(a)(1)"
+},
+{
+"name": "Brown rockfish",
+"group": "Rockfish & Groundfish",
+"bag": "10 combined RCG (no sub-limit)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Nearshore rockfish: boat closed Oct-Dec and Jan-Mar. Counts toward 10 RCG. Common in harbors/bays. ID caution: copper (1 limit) and quillback (0 limit) look similar; brown has dark blotch on gill cover.",
+"src": "§28.55, §1.91(a)(1)"
+},
+{
+"name": "Olive rockfish",
+"group": "Rockfish & Groundfish",
+"bag": "10 combined RCG (no sub-limit)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Nearshore rockfish: boat closed Oct-Dec and Jan-Mar. Counts toward 10 RCG. ID: near-identical yellowtail rockfish is shelf group (boat Oct-Dec >50fm only); irrelevant for divers, same limit.",
+"src": "§28.55, §1.91(a)(1)"
+},
+{
+"name": "Blue/deacon rockfish",
+"group": "Rockfish & Groundfish",
+"bag": "10 combined RCG (no sub-limit)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Blue rockfish is nearshore (§1.91(a)(1)); deacon not named in §1.91, CDFW treats it with blue. Boat closed Oct-Dec and Jan-Mar. Counts toward 10 RCG. Schooling in kelp canopy at Channel Islands.",
+"src": "§28.55, §1.91(a)(1)"
+},
+{
+"name": "Cowcod",
+"group": "Rockfish & Groundfish",
+"bag": "0 - no take",
+"size": "None",
+"season": "Closed",
+"spear": "PROHIBITED - no take at all",
+"notes": "Zero limit statewide; shall not be taken or possessed (§28.55(b)(1)). Diver season exemption does NOT apply to (b)(1) species. Large pink/orange rockfish; juveniles occur in shallow SoCal water. Release immediately.",
+"src": "§28.55(b)(1)"
+},
+{
+"name": "Yelloweye rockfish",
+"group": "Rockfish & Groundfish",
+"bag": "0 - no take",
+"size": "None",
+"season": "Closed",
+"spear": "PROHIBITED - no take at all",
+"notes": "Zero limit statewide; shall not be taken or possessed (§28.55(b)(1)). Diver exemption does NOT apply. Bright yellow eye, orange-red body; juveniles have 2 white stripes. Do not confuse with canary (2 limit) or vermilion.",
+"src": "§28.55(b)(1)"
+},
+{
+"name": "Bronzespotted rockfish",
+"group": "Rockfish & Groundfish",
+"bag": "0 - no take",
+"size": "None",
+"season": "Closed",
+"spear": "PROHIBITED - no take at all",
+"notes": "Zero limit statewide; shall not be taken or possessed (§28.55(b)(1)). Diver exemption does NOT apply. Deepwater SoCal species (usually >250 ft), unlikely at freedive depth.",
+"src": "§28.55(b)(1)"
+},
+{
+"name": "Quillback rockfish",
+"group": "Rockfish & Groundfish",
+"bag": "0 - no take",
+"size": "None",
+"season": "Closed",
+"spear": "PROHIBITED - no take at all",
+"notes": "Zero limit statewide; shall not be taken or possessed (§28.55(b)(1)). Diver exemption does NOT apply. Nearshore species, rare south of Pt Conception. ID: tall deeply-notched dorsal spines, brown w/ orange-yellow speckling; resembles brown/copper.",
+"src": "§28.55(b)(1)"
+},
+{
+"name": "Lingcod",
+"group": "Rockfish & Groundfish",
+"bag": "2",
+"size": "22 in TL",
+"season": "Divers all year. Boat: Apr-Jun, Jul-Sep <50 fm, Oct-Dec >50 fm, Jan-Mar closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Not part of RCG 10. Boat: Jan-Mar closed; Oct-Dec open only seaward of 50 fm. Fillets min 14 in with entire skin attached (§27.65(b)(3)). Closed in Groundfish Exclusion Areas (§27.50). Descending device required aboard boats (§27.20(b)(2)).",
+"src": "§28.27, §27.45, §27.65(b)(3)"
+},
+{
+"name": "Cabezon",
+"group": "Rockfish & Groundfish",
+"bag": "10 combined RCG (no sub-limit)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Counts toward 10 RCG. Grouped with nearshore for boat season: closed Oct-Dec and Jan-Mar. Fillets must have entire skin attached. Roe is toxic - do not eat eggs.",
+"src": "§28.28, §27.45"
+},
+{
+"name": "Greenling (kelp/rock)",
+"group": "Rockfish & Groundfish",
+"bag": "10 combined RCG (no sub-limit)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Genus Hexagrammos regulated as one unit under §28.29; counts toward 10 RCG. Boat season follows nearshore: closed Oct-Dec and Jan-Mar. Fillets entire skin attached. Uncommon south of Pt Conception; kelp greenling at N Channel Islands.",
+"src": "§28.29, §27.45"
+},
+{
+"name": "Yellowtail",
+"group": "Pelagics",
+"bag": "10 (part of 20-fish general limit)",
+"size": "24 in FL (up to 5 under)",
+"season": "All year",
+"spear": "OK",
+"notes": "Up to 5 of the 10 may be under 24 in fork length. Boat fillets: min 17 in, max 10 fillets under 17 in, each with 1-in square skin patch. Same rule for divers and boats.",
+"src": "14 CCR §28.37, §27.65(b)(7)"
+},
+{
+"name": "Pacific bonito",
+"group": "Pelagics",
+"bag": "10 (part of 20-fish general limit)",
+"size": "24 in FL or 5 lb (up to 5 under)",
+"season": "All year",
+"spear": "OK",
+"notes": "Up to 5 fish may be under 24 in FL OR under 5 lb. Boat fillets: max 10 fillets of any length, all count against the 5-undersized tolerance, 1-in square skin patch each.",
+"src": "14 CCR §28.32, §27.65(b)(5)"
+},
+{
+"name": "California barracuda",
+"group": "Pelagics",
+"bag": "10 (part of 20-fish general limit)",
+"size": "28 in TL or 17 in AL",
+"season": "All year",
+"spear": "OK",
+"notes": "No undersized tolerance. Boat fillets: min 17 in w/ 1 in sq patch of silver skin. AL (§1.62) = base of 1st dorsal spine to end of longest tail lobe; used when the head is removed, tail must stay on.",
+"src": "14 CCR §28.25, §27.60(a), §27.65(b)(2)"
+},
+{
+"name": "Mackerel (Pacific & jack)",
+"group": "Pelagics",
+"bag": "No limit",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Booklet lists Pacific (chub) and jack mackerel as one row under §27.60(b). Not counted toward the 20-fish general limit.",
+"src": "14 CCR §27.60(b)"
+},
+{
+"name": "Dorado (dolphinfish)",
+"group": "Pelagics",
+"bag": "10 (part of 20-fish general limit)",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "No species-specific section; general limit applies. Boat fillets any size with 1-in square skin patch (§27.65(b)(13)). Classed as highly migratory species.",
+"src": "14 CCR §27.60(a), §27.65(b)(13)"
+},
+{
+"name": "Albacore",
+"group": "Pelagics",
+"bag": "10 S of Pt Conception (25 N); extra to 20 general",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Special limit in addition to the 20-fish general limit. Boat fillets S of Pt Conception: each fish bagged separately, bag marked with species name, cut into 6 pieces w/ all skin (4 loins, collar w/ both pectorals, belly w/ vent & both pelvics).",
+"src": "14 CCR §28.38(a), §27.65(b)(11)"
+},
+{
+"name": "Bluefin tuna",
+"group": "Pelagics",
+"bag": "2, in addition to 20-fish general limit",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Limit applies to all bluefin possessed regardless of where taken (incl. Mexican waters). Boat fillets S of Pt Conception: each fish individually bagged, bag marked w/ species, cut into 6 pieces with all skin attached.",
+"src": "14 CCR §28.38(b), §27.65(b)(11)"
+},
+{
+"name": "Skipjack tuna",
+"group": "Pelagics",
+"bag": "No limit",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Not counted toward the 20-fish general limit. Same 6-piece bagging rule as other tunas if filleted on a boat S of Pt Conception (§27.65(b)(11)).",
+"src": "14 CCR §27.60(b), §28.38(c)"
+},
+{
+"name": "Yellowfin/bigeye/other tuna",
+"group": "Pelagics",
+"bag": "10 (part of 20-fish general limit)",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "CDFW regulates yellowfin, bigeye and all other unlisted tunas as one 10-fish row; unlike albacore/bluefin these count toward the 20-fish total. Boat fillets S of Pt Conception: 6-piece bagging rule w/ all skin attached.",
+"src": "14 CCR §28.38(d), §27.60(a)"
+},
+{
+"name": "Wahoo",
+"group": "Pelagics",
+"bag": "10 (part of 20-fish general limit)",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Not individually listed in the 2026 booklet; general 10-per-species limit under §27.60(a) applies (also 10 if treated as 'other tuna' under §28.38(d)). Boat fillets: any size, 1-in skin patch.",
+"src": "14 CCR §27.60(a)"
+},
+{
+"name": "Striped marlin",
+"group": "Pelagics",
+"bag": "1 (black, blue, striped combined)",
+"size": "None",
+"season": "All year",
+"spear": "OK (not on §28.90 prohibited list)",
+"notes": "§28.95: spears, harpoons or bow gear may not be aboard any vessel on a day or trip when marlin has been taken. Booklet: marlin is not allowed for commercial take. Classed as highly migratory species.",
+"src": "14 CCR §28.50, §28.95"
+},
+{
+"name": "Broadbill swordfish",
+"group": "Pelagics",
+"bag": "2",
+"size": "None",
+"season": "All year",
+"spear": "PROHIBITED by spear (hook and line only)",
+"notes": "§28.90 excludes broadbill from spearfishing take; §28.95 also bars bow and arrow and bars spears/harpoons aboard any vessel on a day or trip when swordfish has been taken.",
+"src": "14 CCR §28.40, §28.90, §28.95"
+},
+{
+"name": "Jacksmelt",
+"group": "Pelagics",
+"bag": "No limit",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Not counted toward the 20-fish general limit. Bait species.",
+"src": "14 CCR §27.60(b)"
+},
+{
+"name": "Topsmelt",
+"group": "Pelagics",
+"bag": "No limit",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Not counted toward the 20-fish general limit. May also be taken with dip nets of any size or baited hoop nets up to 36 in (§28.80). Bait species.",
+"src": "14 CCR §27.60(b), §28.80"
+},
+{
+"name": "Pacific sardine",
+"group": "Pelagics",
+"bag": "No limit",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Not counted toward the 20-fish general limit. Bait species. 2026 domoic acid consumption advisories were issued in-season for Monterey Bay only (not SoCal); check the Inseason page.",
+"src": "14 CCR §27.60(b)"
+},
+{
+"name": "Northern anchovy",
+"group": "Pelagics",
+"bag": "No limit",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Not counted toward the 20-fish general limit. Dip net/baited hoop net up to 36 in allowed (§28.80). 2026 domoic acid take restrictions (Sept 11, 2026) apply to Monterey Bay only, not SoCal; check the Inseason page.",
+"src": "14 CCR §27.60(b), §28.80"
+},
+{
+"name": "California halibut",
+"group": "Flatfish & Surf",
+"bag": "5 (south of Point Sur)",
+"size": "22 in TL",
+"season": "All year",
+"spear": "OK",
+"notes": "Boat limits apply. Fillets allowed only S of Pt Arena: each fillet min 16.75 in with ENTIRE skin intact, not cut in half (lengthwise midline cut OK if joined 2 in at one end). Measure TL mouth closed to end of longest tail lobe.",
+"src": "14 CCR §28.15, §27.65(b)(6)"
+},
+{
+"name": "Pacific sanddab",
+"group": "Flatfish & Surf",
+"bag": "No limit",
+"size": "None",
+"season": "All year, all depths",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Federal groundfish ('other flatfish'). No take in the 8 offshore Groundfish Exclusion Areas (§27.50). Does not count toward 20-fish general limit. Other sanddab species (speckled, longfin) fall under general 10/20 limit.",
+"src": "14 CCR §28.48, §27.60(b)"
+},
+{
+"name": "Soles (rock/sand/butter)",
+"group": "Flatfish & Surf",
+"bag": "10 per species, part of 20 finfish total",
+"size": "None",
+"season": "All year, all depths",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Rock, sand, butter, curlfin, rex and flathead sole = federal 'other flatfish' (§1.91(a)(10)). No take in Groundfish Exclusion Areas (§27.50). Fillets need 1 in square skin patch.",
+"src": "14 CCR §28.48"
+},
+{
+"name": "Petrale sole / starry flounder",
+"group": "Flatfish & Surf",
+"bag": "No limit",
+"size": "None",
+"season": "All year, all depths",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Federal groundfish regulated as a pair under §28.47. No take in Groundfish Exclusion Areas (§27.50). Not counted toward 20-fish general limit (§27.60(b)).",
+"src": "14 CCR §28.47, §27.60(b)"
+},
+{
+"name": "Other flatfish (turbots, C-O)",
+"group": "Flatfish & Surf",
+"bag": "10 per species, part of 20 finfish total",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Diamond turbot, hornyhead turbot, C-O sole, fantail sole, speckled sanddab etc. are NOT federal groundfish; general limit §27.60(a) applies. ID caution: juvenile California halibut have a 22 in size limit.",
+"src": "14 CCR §27.60(a), §28.48"
+},
+{
+"name": "Surfperch (all species)",
+"group": "Flatfish & Surf",
+"bag": "20 combined (excl. shiner), max 10 of any one species",
+"size": "None (redtail 10.5 in TL)",
+"season": "All year",
+"spear": "OK",
+"notes": "Family Embiotocidae: barred, walleye, rubberlip, black, pile, white etc. Counts toward 20-finfish general limit. SF/San Pablo Bay 5-fish limit and Apr-Jul closure do not apply in SoCal. Fillets need 1 in square skin patch.",
+"src": "14 CCR §28.59"
+},
+{
+"name": "Redtail surfperch",
+"group": "Flatfish & Surf",
+"bag": "10, within 20 surfperch combined",
+"size": "10.5 in TL",
+"season": "All year",
+"spear": "OK",
+"notes": "Only surfperch with a size limit; therefore may not be filleted on a boat or brought ashore as fillets (§27.65(c)). Mainly a central/northern species, uncommon in SoCal.",
+"src": "14 CCR §28.59(d), §27.65(c)"
+},
+{
+"name": "Shiner perch",
+"group": "Flatfish & Surf",
+"bag": "20, in addition to 20-finfish general limit",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Special limit of 20 shiner perch does not count toward the 20 surfperch aggregate or the 20-finfish general limit. Also legal by dip net / baited hoop net (§28.80). Bait-size fish; rarely speared.",
+"src": "14 CCR §28.59(c)(2)"
+},
+{
+"name": "California corbina",
+"group": "Flatfish & Surf",
+"bag": "10, part of 20 finfish total",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "No species-specific section; general limit §27.60(a). Fillets need 1 in square skin patch. Often found in surf zone inside MPAs (check MPA boundaries).",
+"src": "14 CCR §27.60(a)"
+},
+{
+"name": "Spotfin croaker",
+"group": "Flatfish & Surf",
+"bag": "10, part of 20 finfish total",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Not named in regs; general limit §27.60(a) applies. Fillets need 1 in square skin patch. Check OEHHA consumption advisories for LA/Orange County coast.",
+"src": "14 CCR §27.60(a)"
+},
+{
+"name": "Yellowfin croaker",
+"group": "Flatfish & Surf",
+"bag": "10, part of 20 finfish total",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Not named in regs; general limit §27.60(a) applies. Fillets need 1 in square skin patch.",
+"src": "14 CCR §27.60(a)"
+},
+{
+"name": "White croaker (tomcod)",
+"group": "Flatfish & Surf",
+"bag": "10, part of 20 finfish total",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "General limit §27.60(a). HEALTH: OEHHA advises against eating white croaker from the Palos Verdes/Santa Monica Bay area (PCB/DDT); §104 commercial closure off Pt Vicente-Pt Fermin is commercial only. See oehha.ca.gov/fish.",
+"src": "14 CCR §27.60(a)"
+},
+{
+"name": "Salmon (Chinook)",
+"group": "Flatfish & Surf",
+"bag": "2 (hook and line only); coho 0",
+"size": "20 in TL",
+"season": "Sep 1 - Sep 30, 2026 (Pigeon Pt to Mexico) or until 20,000 fall guideline",
+"spear": "PROHIBITED by spear (hook and line only)",
+"notes": "§28.90 excludes salmon from spearfishing; angling only (§27.80(a)). No coho retention. Possession: max 2 daily limits on land, 1 on a vessel. NMFS may close early; call (800) 662-9825. Uncommon south of Pt Conception.",
+"src": "14 CCR §27.80, §28.90"
+},
+{
+"name": "Striped bass",
+"group": "Flatfish & Surf",
+"bag": "2",
+"size": "None south of Pt Conception (18 in TL north)",
+"season": "All year",
+"spear": "OK (§27.85(d) allows spearfishing)",
+"notes": "Rare in SoCal ocean waters. No sinker over 4 lb, no power gurdy/winch; snagging illegal. OEHHA mercury advisory for striped bass (fish that migrate).",
+"src": "14 CCR §27.85"
+},
+{
+"name": "Leopard shark",
+"group": "Sharks & Rays",
+"bag": "3",
+"size": "36 in TL",
+"season": "All year, all depths",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Federal groundfish. No take in 8 offshore Groundfish Exclusion Areas (§27.50). Has size limit and no fillet size specified: may NOT be filleted aboard or brought ashore as fillets (§27.65(c)). ID vs smoothhounds/soupfin.",
+"src": "14 CCR §28.56, §27.65(c)"
+},
+{
+"name": "Soupfin shark",
+"group": "Sharks & Rays",
+"bag": "1",
+"size": "None",
+"season": "All year, all depths",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Federal groundfish (§28.49). No take in Groundfish Exclusion Areas (§27.50). ID caution: smoothhounds (10 limit) and leopard shark (3, 36 in) look similar. Fillets need 1 in square skin patch.",
+"src": "14 CCR §28.49(b)(1)"
+},
+{
+"name": "Shortfin mako shark",
+"group": "Sharks & Rays",
+"bag": "2",
+"size": "None",
+"season": "All year",
+"spear": "OK (§28.95: sharks except white)",
+"notes": "§28.42 gives 2 of each species (mako, thresher, blue). Highly migratory species (§1.49). Fillets need 1 in square skin patch. Dangerous to spear; longfin mako not separately regulated.",
+"src": "14 CCR §28.42, §28.95"
+},
+{
+"name": "Thresher shark",
+"group": "Sharks & Rays",
+"bag": "2",
+"size": "None",
+"season": "All year",
+"spear": "OK (§28.95: sharks except white)",
+"notes": "§28.42: 2 of each species (mako, thresher, blue). Common, pelagic and bigeye threshers are all HMS (§1.49); the section does not split them, so treat as 2 thresher. Fillets need 1 in square skin patch.",
+"src": "14 CCR §28.42, §28.95"
+},
+{
+"name": "Blue shark",
+"group": "Sharks & Rays",
+"bag": "2",
+"size": "None",
+"season": "All year",
+"spear": "OK (§28.95: sharks except white)",
+"notes": "§28.42: 2 of each species (mako, thresher, blue). Highly migratory species (§1.49). Fillets need 1 in square skin patch.",
+"src": "14 CCR §28.42, §28.95"
+},
+{
+"name": "Sixgill shark",
+"group": "Sharks & Rays",
+"bag": "1",
+"size": "None",
+"season": "All year",
+"spear": "OK (§28.95: sharks except white)",
+"notes": "§28.41: one of each species (sixgill, sevengill). Deep-water; rarely encountered by freedivers. Fillets need 1 in square skin patch.",
+"src": "14 CCR §28.41, §28.95"
+},
+{
+"name": "Broadnose sevengill shark",
+"group": "Sharks & Rays",
+"bag": "1",
+"size": "None",
+"season": "All year",
+"spear": "OK (§28.95: sharks except white)",
+"notes": "§28.41: one of each species (sixgill, sevengill). Fillets need 1 in square skin patch.",
+"src": "14 CCR §28.41, §28.95"
+},
+{
+"name": "White shark",
+"group": "Sharks & Rays",
+"bag": "0 - no take",
+"size": "N/A",
+"season": "Closed all year",
+"spear": "PROHIBITED - no take at all",
+"notes": "If hooked/speared accidentally, release immediately; do not remove from water. FGC §5517 also bans using bait/chum to attract white sharks and chumming within 1 nm of shore/pier/jetty when a white shark is visible or known present. §28.95 excludes white shark from spear-legal sharks.",
+"src": "14 CCR §28.06, FGC §5517, §28.95"
+},
+{
+"name": "Bat ray",
+"group": "Sharks & Rays",
+"bag": "10, part of 20 finfish total",
+"size": "None",
+"season": "All year",
+"spear": "OK (§28.95: skates, rays, sharks)",
+"notes": "No species-specific section; general limit §27.60(a). Rays are 'finfish' (§1.46). Not a federal groundfish (§28.49 skates list excludes rays). Fillets/wings need 1 in square skin patch.",
+"src": "14 CCR §27.60(a), §28.95"
+},
+{
+"name": "Shovelnose guitarfish",
+"group": "Sharks & Rays",
+"bag": "10, part of 20 finfish total",
+"size": "None",
+"season": "All year",
+"spear": "OK (§28.95: skates, rays, sharks)",
+"notes": "No species-specific section; general limit §27.60(a). Guitarfish are rays, not federally managed skates. Fillets need 1 in square skin patch.",
+"src": "14 CCR §27.60(a), §28.95"
+},
+{
+"name": "Pacific angel shark",
+"group": "Sharks & Rays",
+"bag": "10, part of 20 finfish total",
+"size": "None",
+"season": "All year",
+"spear": "OK (§28.95: skates, rays, sharks)",
+"notes": "No species-specific section; §28.49 states it does not apply to 'other species of ... sharks', so general limit §27.60(a) governs. Fillets need 1 in square skin patch.",
+"src": "14 CCR §27.60(a), §28.95"
+},
+{
+"name": "Horn shark",
+"group": "Sharks & Rays",
+"bag": "10, part of 20 finfish total",
+"size": "None",
+"season": "All year",
+"spear": "OK (§28.95: skates, rays, sharks)",
+"notes": "No species-specific section; general limit §27.60(a). Fillets need 1 in square skin patch.",
+"src": "14 CCR §27.60(a), §28.95"
+},
+{
+"name": "Swell shark",
+"group": "Sharks & Rays",
+"bag": "10, part of 20 finfish total",
+"size": "None",
+"season": "All year",
+"spear": "OK (§28.95: skates, rays, sharks)",
+"notes": "No species-specific section; general limit §27.60(a). Fillets need 1 in square skin patch.",
+"src": "14 CCR §27.60(a), §28.95"
+},
+{
+"name": "Smoothhounds (gray/brown)",
+"group": "Sharks & Rays",
+"bag": "10 per species, part of 20 finfish total",
+"size": "None",
+"season": "All year",
+"spear": "OK (§28.95: skates, rays, sharks)",
+"notes": "No species-specific section; general limit §27.60(a). ID CAUTION: soupfin shark (limit 1, §28.49) and leopard shark (3, 36 in) are similar - confirm dorsal fin position/tooth shape before shooting. Fillets need 1 in square skin patch.",
+"src": "14 CCR §27.60(a), §28.95"
+},
+{
+"name": "Skates (big/CA/longnose)",
+"group": "Sharks & Rays",
+"bag": "10 per species, part of 20 finfish total",
+"size": "None",
+"season": "All year, all depths",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "All skates are federal groundfish (§28.49, §1.91(a)(6)). No take in Groundfish Exclusion Areas (§27.50). Spear legal per §28.95. Fillets/wings need 1 in square skin patch.",
+"src": "14 CCR §28.49, §28.95"
+},
+{
+"name": "Spiny dogfish",
+"group": "Sharks & Rays",
+"bag": "10, part of 20 finfish total",
+"size": "None",
+"season": "All year, all depths",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Federal groundfish (§28.49). No take in Groundfish Exclusion Areas (§27.50). Venomous dorsal spines. Fillets need 1 in square skin patch.",
+"src": "14 CCR §28.49"
+},
+{
+"name": "California spiny lobster",
+"group": "Lobster & Inverts",
+"bag": "7 daily and in possession",
+"size": "3.25 in carapace (eye socket to rear of shell)",
+"season": "Oct 2, 2026 6:00 pm - Mar 17, 2027 (closed now)",
+"spear": "Hand or hoop net only, no spear",
+"notes": "Divers: hands only, no hooked device; a spear may be carried but not used on lobster. Measure in the water; shorts never leave the water or enter a bag. Keep whole. Carry a gauge. Report card: fill in BEFORE entering the water. Hoop nets max 5/person, 10/vessel.",
+"src": "§29.90, §29.91, §29.80, §1.74"
+},
+{
+"name": "Rock crabs (red/yellow/brown)",
+"group": "Lobster & Inverts",
+"bag": "35",
+"size": "4 in across widest part of shell",
+"season": "All year",
+"spear": "Hands only (or hoop net); no spear",
+"notes": "Reg text says Cancer genus incl. yellow, rock, red crabs; CDFW applies it to red (C. productus), yellow (Metacarcinus anthonyi), brown (Romaleon antennarium). Measure immediately, release undersize at once, none in any container. Carry gauge. Divers hands only. Crab traps only N of Pt Arguello.",
+"src": "§29.85(c),(d), §29.80(g)"
+},
+{
+"name": "Sheep crab (spider crab)",
+"group": "Lobster & Inverts",
+"bag": "35 (general limit, all non-Cancer crabs)",
+"size": "None",
+"season": "All year",
+"spear": "Hands only (or hoop net); no spear",
+"notes": "No species-specific section; booklet table 'Crab, Other: 35 crabs, no size, §29.05'. Divers hands only, no hooked device (§29.80(g)). Hoop nets may take all crab species. Same 35 covers other non-Cancer crabs (kelp crab etc.).",
+"src": "§29.05(a), §29.80"
+},
+{
+"name": "Rock scallop",
+"group": "Lobster & Inverts",
+"bag": "10",
+"size": "None",
+"season": "All year",
+"spear": "Hand, dive knife or ab iron only; no spear",
+"notes": "Only hand, dive knife or abalone iron (iron per §29.15(e)). Up to 3 limits on a declared multi-day boat trip (§27.15). Some SMCAs (e.g. Kashtayit) exclude rock scallops from allowed take; check MPA rules. Allowed in intertidal zone.",
+"src": "§29.60, §27.15"
+},
+{
+"name": "Red sea urchin",
+"group": "Lobster & Inverts",
+"bag": "35 daily and possession",
+"size": "None",
+"season": "All year",
+"spear": "Hand take; spear not an authorized method",
+"notes": "35 per species (§29.06(a)). Skin/scuba divers may take (§29.05(d)). Listed tidepool species, so intertidal take allowed outside MPAs. Take of all inverts prohibited in state marine reserves.",
+"src": "§29.06(a), §29.05"
+},
+{
+"name": "Purple sea urchin",
+"group": "Lobster & Inverts",
+"bag": "35 daily; no possession limit",
+"size": "None",
+"season": "All year",
+"spear": "Hand take; spear not an authorized method",
+"notes": "40-gallon limit and Caspar Cove unlimited take apply ONLY to Humboldt/Mendocino/Sonoma - not SoCal. In SoCal: 35/day, no possession limit. Divers may take.",
+"src": "§29.06"
+},
+{
+"name": "Octopus",
+"group": "Lobster & Inverts",
+"bag": "35",
+"size": "None",
+"season": "All year",
+"spear": "PROHIBITED by spear (hands or hook & line only)",
+"notes": "Mollusk: may be taken only by hook and line or with the hands (§29.10). Bag 35 under general limit. Allowed in intertidal (listed species) outside MPAs.",
+"src": "§29.10, §29.05"
+},
+{
+"name": "Warty sea cucumber",
+"group": "Lobster & Inverts",
+"bag": "35 (general limit)",
+"size": "None",
+"season": "All year",
+"spear": "Hand only per CDFW; no spear",
+"notes": "No dedicated section; §29.05 general 35 applies. NOT on the §29.05(b) tidepool list: no take between high tide mark and 1,000 ft seaward (intertidal/nearshore). CDFW species page states hands only (page could not be read directly; confirmed via search snippet only). Same for giant red sea cucumber.",
+"src": "§29.05"
+},
+{
+"name": "Market squid",
+"group": "Lobster & Inverts",
+"bag": "No limit",
+"size": "None",
+"season": "All year",
+"spear": "Hand-held dip net (or hands/hook & line); no spear",
+"notes": "§29.70: hand-held dip nets, no limit (also jumbo squid). Mollusk general rule §29.10 allows hands or hook and line. Listed tidepool species.",
+"src": "§29.70, §29.10"
+},
+{
+"name": "Mussels (California & bay)",
+"group": "Lobster & Inverts",
+"bag": "10 lb in shell, both species combined",
+"size": "None",
+"season": "All year; CDPH quarantine May 1 - Oct 31: bait use only",
+"spear": "Hand; no spear",
+"notes": "Annual CDPH quarantine (2026 notice SN26-008) May 1 through normally Oct 31, may be extended: sport mussels may only be harvested for bait, do not eat (PSP/domoic acid). Southern summary Sep 2026: non-consumptive use only. Kashtayit SMCA excludes mussels. Biotoxin line 800-553-4133.",
+"src": "§29.55, §29.05; CDPH quarantine"
+},
+{
+"name": "Pismo clam",
+"group": "Lobster & Inverts",
+"bag": "10",
+"size": "4.5 in shell diameter (south of SLO/Monterey line)",
+"season": "All year (SoCal); hours 1/2 hr before sunrise to 1/2 hr after sunset",
+"spear": "Hand-operated digging tools only; no spear",
+"notes": "Hand tools only (spade, shovel, fork, rake, clam gun); no digging tools on beach at night. Measure at once, rebury undersize where dug. Keep whole; each person own container, no commingling. Carry gauge. No take in MPAs that prohibit clams. Check domoic acid advisories.",
+"src": "§29.40, §29.20"
+},
+{
+"name": "Littleneck/chione/cockle clams",
+"group": "Lobster & Inverts",
+"bag": "50 combined (littleneck, chione, cockle, quahog, soft-shell)",
+"size": "1.5 in greatest diameter (no size for soft-shell)",
+"season": "All year; hours 1/2 hr before sunrise to 1/2 hr after sunset",
+"spear": "Hand-operated digging tools only; no spear",
+"notes": "§29.35 group: littleneck, soft-shell, chiones, northern quahogs, cockles. All soft-shells dug must be retained until limit. General clam rules §29.20: hand tools only, rebury undersize, keep whole, separate container per person, carry gauge.",
+"src": "§29.35, §29.20"
+},
+{
+"name": "Gaper & Washington clams",
+"group": "Lobster & Inverts",
+"bag": "10 of each species",
+"size": "None",
+"season": "All year; hours 1/2 hr before sunrise to 1/2 hr after sunset",
+"spear": "Hand-operated digging tools only; no spear",
+"notes": "Horse/horseneck clams = gaper clams. All gaper and Washington clams dug, regardless of size or broken condition, must be retained until limit reached. Humboldt Bay/Elkhorn Slough exceptions do not apply in SoCal. General clam rules §29.20 apply.",
+"src": "§29.25, §29.20"
+},
+{
+"name": "Abalone (all species)",
+"group": "Lobster & Inverts",
+"bag": "0 - no take",
+"size": "N/A",
+"season": "Closed",
+"spear": "PROHIBITED - no take at all",
+"notes": "All species (red, green, pink, black, white). Booklet (Jul 17, 2026): all ocean waters closed; abalone may not be taken or possessed, closure runs to Apr 1, 2036. Southern summary: no abalone may be taken at any time in Southern California.",
+"src": "§29.15"
+},
+{
+"name": "Kellet's whelk",
+"group": "Lobster & Inverts",
+"bag": "35",
+"size": "None",
+"season": "Jul 1 - Mar 17, 2027 (closed Mar 18 - Jun 30)",
+"spear": "Hand or hook & line only; no spear",
+"notes": "Season Jul 1 through first Wednesday after Mar 15 (§29.17). Bag 35 via general limit. Mollusk: hands or hook and line only (§29.10). NOT on the tidepool list: no take between high tide mark and 1,000 ft seaward.",
+"src": "§29.17, §29.05, §29.10"
+},
+{
+"name": "Moon snail",
+"group": "Lobster & Inverts",
+"bag": "5",
+"size": "None",
+"season": "All year (SoCal)",
+"spear": "Hand or hook & line only; no spear",
+"notes": "§29.71 limit 5; closure north of Golden Gate does not apply in SoCal. Mollusk: hands or hook and line (§29.10). Listed tidepool species.",
+"src": "§29.71, §29.10"
+},
+{
+"name": "Limpets",
+"group": "Lobster & Inverts",
+"bag": "35",
+"size": "None",
+"season": "All year",
+"spear": "Hand or hook & line only; no spear",
+"notes": "General 35 limit (§29.05); includes owl limpets. Mollusk: hands or hook and line. Listed tidepool species, but take of all inverts prohibited in state marine reserves and many SoCal SMCAs; check MPA.",
+"src": "§29.05, §29.10"
+},
+{
+"name": "Kelp & marine plants",
+"group": "Lobster & Inverts",
+"bag": "10 lb wet weight, all plants aggregate",
+"size": "None",
+"season": "All year",
+"spear": "Hand harvest; N/A",
+"notes": "§30.00 10 lb wet weight aggregate. §30.10: eelgrass (Zostera), surfgrass (Phyllospadix), sea palm (Postelsia) may not be cut or disturbed at all. No harvest in state marine reserves; some SMCAs restrict (Kashtayit allows giant kelp by hand only).",
+"src": "§30.00, §30.10"
+},
+{
+"name": "Speckled (bay) scallop",
+"group": "Lobster & Inverts",
+"bag": "0 - no take",
+"size": "N/A",
+"season": "Closed",
+"spear": "PROHIBITED - no take at all",
+"notes": "§29.65: may not be taken or possessed. Found in SoCal bays/harbors. Do not confuse with rock scallop (10 limit).",
+"src": "§29.65"
+},
+{
+"name": "Other invertebrates (general)",
+"group": "Lobster & Inverts",
+"bag": "35 per species unless a specific limit applies",
+"size": "None unless listed",
+"season": "All year unless listed",
+"spear": "Hands (crustaceans); hands/hook & line (mollusks)",
+"notes": "§29.05: 35 per species unless a specific limit; no closed season or size unless listed. No take of any invert in state marine reserves; SMCAs vary. Intertidal (high tide mark to 1,000 ft seaward): only listed species (lobster, crabs, urchins, octopus, mussels, rock scallop, limpets, clams, snails).",
+"src": "§29.05, §29.10, §29.80(g)"
+},
+{
+"name": "License & Ocean Enhancement",
+"group": "Rules & Spearfishing",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "Age 16+ must carry a sport fishing license (public piers excepted). Ocean Enhancement Validation required in ocean waters south of Pt Arguello = all SoCal; not needed with a 1- or 2-day license. Lobster report card needed at any age. OEV statute (FGC 6596) not read; CDFW licensing page only.",
+"src": "FGC §7145; CDFW licensing page"
+},
+{
+"name": "General finfish bag limit",
+"group": "Rules & Spearfishing",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "20 finfish total, max 10 of any one species, where no species limit is listed; possession = daily bag. Species with their own limit (bass, sheephead, halibut, RCG...) use that instead. No limit: Pacific/jack mackerel, sardine, anchovy, queenfish, sanddabs, skipjack, topsmelt, jacksmelt.",
+"src": "14 CCR §27.60"
+},
+{
+"name": "Spear-prohibited species",
+"group": "Rules & Spearfishing",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "Anyone in the water (freediving or scuba) may spear finfish EXCEPT giant (black) sea bass, garibaldi, gulf grouper, broomtail grouper, trout, salmon, broadbill swordfish. §1.76: spearfishing = take by spear or hand while in the water. Stream-mouth 100 yd spear ban applies only north of Ventura Co.",
+"src": "14 CCR §28.90, §1.76"
+},
+{
+"name": "Spears & harpoons (§28.95)",
+"group": "Rules & Spearfishing",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "Spears/harpoons/bow may take all skates, rays and sharks except white shark. Harpoon may assist landing Pacific halibut (§28.20). Such gear may not be aboard a vessel on any day/trip when swordfish or marlin were taken. Otherwise finfish only by hook-and-line, hand (§28.65) or spear (§28.90).",
+"src": "14 CCR §28.95, §28.65"
+},
+{
+"name": "Diver groundfish exemption",
+"group": "Rules & Spearfishing",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "§27.20(b)(1)(D): diving/spearfishing, all groundfish except bronzespotted, cowcod, quillback, yelloweye may be taken/possessed year-round. When boat-based groundfish fishing is closed (SoCal 2026 RCG: Jan 1-Mar 31, Oct 1-Dec 31) ONLY spear gear may be aboard the boat/kayak. Bag limits still apply.",
+"src": "14 CCR §27.20(b)(1)(D), §28.90(b)"
+},
+{
+"name": "Fillet rules (§27.65)",
+"group": "Rules & Spearfishing",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "No filleting on any boat or bringing fish ashore as fillets except per §27.65: kelp/sand bass 7.5 in + 1 in sq skin; white seabass 19 in silver skin; sheephead 6.75 in entire skin; CA halibut 16.75 in entire skin; yellowtail/barracuda 17 in; rockfish/scorpionfish/lingcod whole skin. Keep whole.",
+"src": "14 CCR §27.65"
+},
+{
+"name": "Length definitions (TL/FL/AL)",
+"group": "Rules & Spearfishing",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "TL: tip of head (mouth closed, fish flat) to end of longest tail lobe. FL: tip of head to center of tail fork. AL (alternate length): base of the foremost first-dorsal spine to end of longest tail lobe, used when the head is removed (bass 10 in, white seabass 20.5 in, barracuda 17 in).",
+"src": "14 CCR §1.62"
+},
+{
+"name": "Lobster report card & gauge",
+"group": "Rules & Spearfishing",
+"bag": "",
+"size": "3.25 in carapace, measured in water",
+"season": "Oct 2, 2026 6:00 pm - Mar 17, 2027",
+"spear": "Hands only - no spear, no hooked device",
+"notes": "Report card required (any age); on you, in the boat, or within 500 yd of shore entry. Record date/location/gear code BEFORE diving, count kept AFTER. Report by Apr 30 or pay non-return fee. Carry a gauge; measure in water, never surface a short. Keep whole. Spear OK to carry if not used on lobster.",
+"src": "§29.80(g), §29.90, §29.91, §29.05"
+},
+{
+"name": "Marine Protected Areas",
+"group": "Rules & Spearfishing",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "SoCal coast and Channel Islands have many SMRs (no take of anything) and SMCAs (species/gear limits). Boundaries rarely buoyed; you must know your position (CDFW Ocean Sport Fishing Interactive Web Map). Transit through an MPA only with spear unloaded, not in hand, diver on surface.",
+"src": "14 CCR §632"
+},
+{
+"name": "Hours of take (day/night)",
+"group": "Rules & Spearfishing",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "Finfish: no closed hours in the Pacific Ocean or saltwater bays (only SF Bay has a night rule). Invertebrates incl. lobster: no closed hours (§29.05). Lobster season itself opens 6:00 pm Fri Oct 2, 2026. Hoop nets banned S of Pt Arguello 24 h before opener (divers unaffected).",
+"src": "14 CCR §27.56, §29.05, §29.90"
+},
+{
+"name": "Mexican waters not covered",
+"group": "Rules & Spearfishing",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "CA regs end at the US-Mexico border; Mexico needs its own license/permit and rules. Fish brought back must be legally taken there and declared on form DFW 901 at/before entry (FGC 2353, 14 CCR 712.5). Giant sea bass: max 2 per angler per trip from south of border, Mexican permit as proof (§28.10).",
+"src": "FGC §2353; 14 CCR §712.5, §28.10"
+},
+{
+"name": "Descending device (boats)",
+"group": "Rules & Spearfishing",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "§27.20(b)(2): no one may take or possess federal groundfish or greenlings from any boat or other floating device without a descending device available for immediate use. No diver exemption: diving from a boat/kayak with rockfish, lingcod, cabezon or greenling aboard, carry one. Shore dive: n/a.",
+"src": "14 CCR §27.20(b)(2)"
+},
+{
+"name": "Harbors & bays",
+"group": "Rules & Spearfishing",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "No statewide CCR rule closes harbors or bays to spearfishing; ocean regs apply in bays contiguous to the ocean (§27.00). Some SoCal MPAs cover bay/harbor waters (check map), and city/harbor-district ordinances may ban spearfishing or loaded spears. UNCONFIRMED: local ordinances were not verified.",
+"src": "14 CCR §27.00, §632; local ordinances"
+}
+]
+}
