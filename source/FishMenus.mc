@@ -87,14 +87,19 @@ class SpeciesDelegate extends Menu2InputDelegate {
     }
 }
 
-//! One item per non-empty field; select any to read it in full.
+//! Titled with the species photo when there is one (see PhotoTitle.mc), else its name. One item per non-empty field;
+//! select any to read it in full.
 function detailMenu(f as Dictionary<String, String>) as Menu2 {
-    var menu = new Menu2({:title => f["name"] as String});
+    var p = photo(f["name"] as String);
+    var menu = p != null ? photoMenu(f["name"] as String, p) : new Menu2({:title => f["name"] as String});
     for (var i = 0; i < FIELDS.size(); i++) {
         var v = f[FIELDS[i]] as String;
         if (!v.equals("")) {
-            menu.addItem(new MenuItem(LABELS[i], v, i, null));
+            menu.addItem(p != null ? new FieldItem(i, LABELS[i], v) : new MenuItem(LABELS[i], v, i, null));
         }
+    }
+    if (p != null) {
+        menu.addItem(new FieldItem(:credit, "Photo credit", p[1] as String));
     }
     return menu;
 }
@@ -108,6 +113,11 @@ class DetailDelegate extends Menu2InputDelegate {
     }
 
     function onSelect(item as MenuItem) as Void {
+        if (item.getId() == :credit) {
+            var c = new FieldView("Photo credit", photo(_f["name"] as String)[1] as String);
+            pushView(c, new FieldDelegate(c), SLIDE_LEFT);
+            return;
+        }
         var i = item.getId() as Number;
         var v = new FieldView(LABELS[i], _f[FIELDS[i]] as String);
         pushView(v, new FieldDelegate(v), SLIDE_LEFT);
@@ -117,5 +127,5 @@ class DetailDelegate extends Menu2InputDelegate {
 function aboutText() as String {
     return "California recreational ocean sport fishing regs, Southern Management Area (Pt Conception to Mexico), as of "
         + (regs()["asof"] as String)
-        + ". Compiled from CDFW and 14 CCR. Not legal advice: regs change in-season and MPAs are not listed. Verify at wildlife.ca.gov before you dive.";
+        + ". Compiled from CDFW and 14 CCR. Photos from Wikimedia Commons; credit and license under each species. Not legal advice: regs change in-season and MPAs are not listed. Verify at wildlife.ca.gov before you dive.";
 }
