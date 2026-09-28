@@ -106,6 +106,11 @@ TITLES = {
     "Kelp & marine plants": "Macrocystis pyrifera",
     "Speckled (bay) scallop": "Argopecten ventricosus",
 }
+# Commons files that replace an article's lead image when that image is poor for ID (distant school, tiny fish).
+FILES = {
+    "Yellowtail": "California yellowtail.jpg",
+    "Black croaker": "Cheilotrema saturnum.jpg",
+}
 BOX = (240, 104)  # px on a 390 px screen for the photo under the name (PhotoTitle.mc); scales per device
 CROP = 0.35       # PhotoTitle clips top/bottom to BOX height; lose at most this share of a photo's height
 SCREEN = 390
@@ -156,6 +161,7 @@ def main():
     names = [f["name"] for f in json.load(open(os.path.join(ROOT, "resources/jsonData/regs.json")))["fish"]]
     missing = set(TITLES) - set(names)
     assert not missing, f"TITLES keys not in regs.json: {missing}"
+    assert set(FILES) <= set(TITLES), f"FILES keys not in TITLES: {set(FILES) - set(TITLES)}"
     os.makedirs(OUT, exist_ok=True)
     for old in os.listdir(OUT):
         os.remove(os.path.join(OUT, old))
@@ -184,6 +190,7 @@ def main():
                 print("no free lead image:", name, "->", t)
             continue
         article, file = lead[t]
+        file = FILES.get(name, file)
         q = api("commons.wikimedia.org", titles="File:" + file, prop="imageinfo",
                 iiprop="url|extmetadata", iiextmetadatafilter="Artist|LicenseShortName", iiurlwidth=330)
         page = q["pages"][0]

@@ -12,7 +12,7 @@
     <bitmap id="p_opaleye" filename="p_opaleye.jpg" scaleX="61.54%" scaleY="41.03%" scaleRelativeTo="screen"/>
     <bitmap id="p_halfmoon" filename="p_halfmoon.jpg" scaleX="61.54%" scaleY="36.36%" scaleRelativeTo="screen"/>
     <bitmap id="p_sargo" filename="p_sargo.jpg" scaleX="54.81%" scaleY="41.03%" scaleRelativeTo="screen"/>
-    <bitmap id="p_black_croaker" filename="p_black_croaker.jpg" scaleX="30.77%" scaleY="41.03%" scaleRelativeTo="screen"/>
+    <bitmap id="p_black_croaker" filename="p_black_croaker.jpg" scaleX="61.54%" scaleY="38.41%" scaleRelativeTo="screen"/>
     <bitmap id="p_vermilion_sunset_rockfish" filename="p_vermilion_sunset_rockfish.jpg" scaleX="61.54%" scaleY="41.03%" scaleRelativeTo="screen"/>
     <bitmap id="p_copper_rockfish" filename="p_copper_rockfish.jpg" scaleX="61.54%" scaleY="41.03%" scaleRelativeTo="screen"/>
     <bitmap id="p_canary_rockfish" filename="p_canary_rockfish.jpg" scaleX="61.54%" scaleY="38.79%" scaleRelativeTo="screen"/>
@@ -32,7 +32,7 @@
     <bitmap id="p_lingcod" filename="p_lingcod.png" scaleX="61.54%" scaleY="37.22%" scaleRelativeTo="screen"/>
     <bitmap id="p_cabezon" filename="p_cabezon.jpg" scaleX="61.54%" scaleY="41.03%" scaleRelativeTo="screen"/>
     <bitmap id="p_greenling_kelp_rock" filename="p_greenling_kelp_rock.jpg" scaleX="61.54%" scaleY="37.11%" scaleRelativeTo="screen"/>
-    <bitmap id="p_yellowtail" filename="p_yellowtail.png" scaleX="54.81%" scaleY="41.03%" scaleRelativeTo="screen"/>
+    <bitmap id="p_yellowtail" filename="p_yellowtail.jpg" scaleX="61.54%" scaleY="41.03%" scaleRelativeTo="screen"/>
     <bitmap id="p_pacific_bonito" filename="p_pacific_bonito.jpg" scaleX="61.54%" scaleY="23.87%" scaleRelativeTo="screen"/>
     <bitmap id="p_california_barracuda" filename="p_california_barracuda.jpg" scaleX="54.81%" scaleY="41.03%" scaleRelativeTo="screen"/>
     <bitmap id="p_mackerel_pacific_jack" filename="p_mackerel_pacific_jack.png" scaleX="61.54%" scaleY="37.22%" scaleRelativeTo="screen"/>

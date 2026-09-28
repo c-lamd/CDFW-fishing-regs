@@ -1,4 +1,4 @@
-# Fish Regs — Garmin Descent
+# SoCal Ocean Fishing Regs — Garmin Descent
 
 Connect IQ watch app for a Southern California spearfisher: browse saltwater species by group, pick one,
 read its 2026 California recreational ocean sport fishing regulation (bag, size, season, spear status,
@@ -41,8 +41,8 @@ Simulator: start `simulator.exe` from the SDK `bin`, then
 `java -classpath monkeybrains.jar com.garmin.monkeybrains.monkeydodeux.MonkeyDoDeux -f bin\FishRegs.prg -d descentg2 -s <sdk>\bin\shell.exe`
 (use the same `-d` as the build).
 
-Store: upload `bin/FishRegs.iq` at apps.garmin.com (developer account; listing text, screenshots and icon are
-entered there). The photo credit rows and the About line are the in-app attribution the CC BY / BY-SA photos
+Store: upload `bin/FishRegs.iq` at apps.garmin.com (developer account). `store/listing.md` has the listing text
+to paste and `store/screenshot-*.png` the screenshots (G2 simulator, cropped to the round screen). The photo credit rows and the About line are the in-app attribution the CC BY / BY-SA photos
 require once the app is distributed.
 
 ## Data

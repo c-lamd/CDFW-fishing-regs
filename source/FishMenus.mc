@@ -10,7 +10,7 @@ const LABELS = ["Bag", "Size", "Season", "Spear", "Notes", "Source"] as Array<St
 
 //! Top level: one item per group, in first-seen order, then About.
 function groupMenu() as Menu2 {
-    var menu = new Menu2({:title => "Fish Regs"});
+    var menu = new Menu2({:title => WatchUi.loadResource(Rez.Strings.AppName) as String});
     var all = fish();
     var groups = [] as Array<String>;
     var counts = {} as Dictionary<String, Number>;
@@ -125,7 +125,7 @@ class DetailDelegate extends Menu2InputDelegate {
 }
 
 function aboutText() as String {
-    return "California recreational ocean sport fishing regs, Southern Management Area (Pt Conception to Mexico), as of "
+    return "Unofficial guide to California recreational ocean sport fishing regs, Southern Management Area (Pt Conception to Mexico), as of "
         + (regs()["asof"] as String)
-        + ". Compiled from CDFW and 14 CCR. Photos from Wikimedia Commons; credit and license under each species. Not legal advice: regs change in-season and MPAs are not listed. Verify at wildlife.ca.gov before you dive.";
+        + ". Compiled from CDFW and 14 CCR and kept current with CDFW rules; not affiliated with CDFW. Photos from Wikimedia Commons; credit and license under each species. Not legal advice: regs change in-season and MPAs are not listed. Verify at wildlife.ca.gov before you dive.";
 }
