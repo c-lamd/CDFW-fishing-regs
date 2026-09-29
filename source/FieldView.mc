@@ -118,6 +118,9 @@ class FieldView extends WatchUi.View {
     }
 
     function onUpdate(dc as Dc) as Void {
+        // On the real G2 the menu this opens from leaves its title-band clip on the dc; without this, only that band
+        // gets drawn and the rest of the screen keeps showing the old menu. (The simulator resets it.)
+        dc.clearClip();
         dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_BLACK);
         dc.clear();
         var cx = dc.getWidth() / 2;
