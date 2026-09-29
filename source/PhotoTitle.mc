@@ -23,11 +23,15 @@ function photoMenu(name as String, p as Array) as CustomMenu {
         {:title => new PhotoTitle(name, p), :titleItemHeight => h / 2 - row / 2});
 }
 
-//! Species name on top, photo filling the band under it.
+//! Species name on top, photo filling the band under it. draw() runs on every scroll frame, so everything
+//! that doesn't change (trimmed name, layout) is worked out on the first draw and kept.
 class PhotoTitle extends WatchUi.Drawable {
     private var _name as String;
     private var _id as ResourceId;
     private var _bmp as BitmapResource?;
+    private var _nameY as Number = 0;
+    private var _photoY as Number = 0;       // top of the visible photo band
+    private var _photoH as Number = 0;       // height of that band (photo clipped to it)
 
     function initialize(name as String, p as Array) {
         Drawable.initialize({});
@@ -40,33 +44,41 @@ class PhotoTitle extends WatchUi.Drawable {
         if (b == null) {
             b = WatchUi.loadResource(_id) as BitmapResource;
             _bmp = b;
+            layout(dc, b);
         }
-        var s = System.getDeviceSettings().screenHeight;
-        var nameY = s * 26 / 390;
         dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_BLACK);
         dc.clear();
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
+        dc.drawText(dc.getWidth() / 2, _nameY, SUB_FONT, _name, Graphics.TEXT_JUSTIFY_CENTER);
+        dc.setClip(0, _photoY, dc.getWidth(), _photoH);
+        dc.drawBitmap((dc.getWidth() - b.getWidth()) / 2, _photoY - (b.getHeight() - _photoH) / 2, b);
+        dc.clearClip();
+    }
+
+    private function layout(dc as Dc, b as BitmapResource) as Void {
+        var s = System.getDeviceSettings().screenHeight;
+        var fh = dc.getFontHeight(SUB_FONT);
+        _nameY = s * 26 / 390;
         // Name width: the round screen's chord at the name's middle, less a margin (fonts differ per device).
         var r = s / 2;
-        var dy = r - nameY - dc.getFontHeight(SUB_FONT) / 2;
-        var chord = 2 * Math.sqrt(r * r - dy * dy).toNumber() - s * 24 / 390;
-        dc.drawText(dc.getWidth() / 2, nameY, SUB_FONT, fit(dc, _name, chord), Graphics.TEXT_JUSTIFY_CENTER);
+        var dy = r - _nameY - fh / 2;
+        _name = fit(dc, _name, 2 * Math.sqrt(r * r - dy * dy).toNumber() - s * 24 / 390);
         // Photos come pre-scaled to full width and may be taller than the room left under the name
         // (data/photos.py CROP): centre them in that band and clip off the top and bottom.
-        var top = nameY + dc.getFontHeight(SUB_FONT);
+        var top = _nameY + fh;
         var band = dc.getHeight() - top - s * 4 / 390;
-        var bh = b.getHeight() < band ? b.getHeight() : band;
-        top += (band - bh) / 2;
-        dc.setClip(0, top, dc.getWidth(), bh);
-        dc.drawBitmap((dc.getWidth() - b.getWidth()) / 2, top - (b.getHeight() - bh) / 2, b);
-        dc.clearClip();
+        _photoH = b.getHeight() < band ? b.getHeight() : band;
+        _photoY = top + (band - _photoH) / 2;
     }
 }
 
 //! Label over sublabel, centred on the screen; the focused row is white, the rest gray, like Menu2.
+//! Like PhotoTitle, the trimmed sublabel and the layout are computed on the first draw only.
 class FieldItem extends WatchUi.CustomMenuItem {
     private var _label as String;
     private var _sub as String;
+    private var _cx as Number = -1;
+    private var _top as Number = 0;
 
     function initialize(id as Object, label as String, sub as String) {
         CustomMenuItem.initialize(id, {});
@@ -75,25 +87,35 @@ class FieldItem extends WatchUi.CustomMenuItem {
     }
 
     function draw(dc as Dc) as Void {
-        // The item dc is right-aligned and narrower than the screen (the focus bar takes the left strip),
-        // so centre on the screen, not the dc, to line up with the photo.
-        var cx = dc.getWidth() - System.getDeviceSettings().screenWidth / 2;
         var lh = dc.getFontHeight(LABEL_FONT);
-        var top = (dc.getHeight() - lh - dc.getFontHeight(SUB_FONT)) / 2;
+        if (_cx < 0) {
+            // The item dc is right-aligned and narrower than the screen (the focus bar takes the left strip),
+            // so centre on the screen, not the dc, to line up with the photo.
+            _cx = dc.getWidth() - System.getDeviceSettings().screenWidth / 2;
+            _top = (dc.getHeight() - lh - dc.getFontHeight(SUB_FONT)) / 2;
+            _sub = fit(dc, _sub, 2 * _cx - 30);
+        }
         dc.setColor(isFocused() ? Graphics.COLOR_WHITE : Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
-        dc.drawText(cx, top, LABEL_FONT, _label, Graphics.TEXT_JUSTIFY_CENTER);
-        dc.drawText(cx, top + lh, SUB_FONT, fit(dc, _sub, 2 * cx - 30), Graphics.TEXT_JUSTIFY_CENTER);
+        dc.drawText(_cx, _top, LABEL_FONT, _label, Graphics.TEXT_JUSTIFY_CENTER);
+        dc.drawText(_cx, _top + lh, SUB_FONT, _sub, Graphics.TEXT_JUSTIFY_CENTER);
     }
 }
 
-//! Trim to width with "...", as Menu2 does with long sublabels.
+//! Trim to width with "...", as Menu2 does with long sublabels. Binary search on the cut point, so a long
+//! string costs ~6 text measurements, not one per character.
 function fit(dc as Dc, s as String, w as Number) as String {
     if (dc.getTextWidthInPixels(s, SUB_FONT) <= w) {
         return s;
     }
-    var n = s.length();
-    while (n > 0 && dc.getTextWidthInPixels(s.substring(0, n) + "...", SUB_FONT) > w) {
-        n--;
+    var lo = 0;                 // longest prefix known to fit (with "...")
+    var hi = s.length();        // shortest prefix known not to fit
+    while (hi - lo > 1) {
+        var mid = (lo + hi) / 2;
+        if (dc.getTextWidthInPixels(s.substring(0, mid) + "...", SUB_FONT) <= w) {
+            lo = mid;
+        } else {
+            hi = mid;
+        }
     }
-    return s.substring(0, n) + "...";
+    return s.substring(0, lo) + "...";
 }
