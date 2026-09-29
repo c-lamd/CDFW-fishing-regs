@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <iq:manifest xmlns:iq="http://www.garmin.com/xml/connectiq" version="3">
     <iq:application id="a881f26e89594daca69ba78bbc3dd036" type="watch-app" name="@Strings.AppName"
-                    entry="FishRegsApp" launcherIcon="@Drawables.LauncherIcon" version="1.0.0"
-                    minApiLevel="3.3.0">
+                    entry="FishRegsApp" launcherIcon="@Drawables.LauncherIcon" version="1.1.0"
+                    minApiLevel="3.1.0">
         <!-- Sideload (bin/FishRegs.prg to GARMIN/APPS) or store (bin/FishRegs.iq). Read-only reference app:
              no sensors, no comms, no permissions. -->
         <iq:products>
@@ -11,6 +11,12 @@
             <iq:product id="descentmk2s"/>
             <iq:product id="descentmk343mm"/>
             <iq:product id="descentmk351mm"/>
+            <iq:product id="descentmk1"/>
+            <iq:product id="fenix843mm"/>
+            <iq:product id="fenix847mm"/>
+            <iq:product id="fenix8pro47mm"/>
+            <iq:product id="fenix8solar47mm"/>
+            <iq:product id="fenix8solar51mm"/>
         </iq:products>
         <iq:permissions/>
         <iq:languages>

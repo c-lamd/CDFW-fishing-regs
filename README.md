@@ -2,8 +2,8 @@
 
 Connect IQ watch app for a Southern California spearfisher: browse saltwater species by group, pick one,
 read its 2026 California recreational ocean sport fishing regulation (bag, size, season, spear status,
-notes, governing 14 CCR section). Read-only, offline, no permissions. Runs on the Descent G2, Mk3 (43/51 mm)
-and Mk2 / Mk2i / Mk2 S; sideloaded or packaged for the Connect IQ store.
+notes, governing 14 CCR section). Read-only, offline, no permissions. Runs on the Descent G2, Mk3 (43/51 mm),
+Mk2 / Mk2i / Mk2 S and Mk1, and the fenix 8 family (AMOLED and Solar); sideloaded or packaged for the Connect IQ store.
 
 > Not legal advice. Regs change in-season and the app does not list MPAs. Data is compiled from CDFW
 > pages and Title 14 CCR text as of the `asof` date shown under About. Verify at wildlife.ca.gov before you dive.
@@ -17,8 +17,8 @@ UP/DOWN or touch scroll; START/tap selects. Full-text screens page with UP/DOWN 
 Rules & Spearfishing entries open straight to their text. Verified in the Connect IQ simulator on every
 product (all 96 photos load); ~106 KB of 764 KB in use on the G2/Mk3, ~125 KB of 1.3 MB on the Mk2.
 
-Not supported: Descent G1 (96 KB app memory; the whole regs.json is held in memory, so it would need the data
-split per group first) and Mk1.
+Not supported yet: Descent G1 (96 KB app memory, 1-bit screen; the whole regs.json is held in memory, so it needs
+the data split per group and a no-photo build first).
 
 ## Build and sideload
 
@@ -75,7 +75,7 @@ box width and PhotoTitle clips top and bottom (mostly water) to fit, losing at m
 ## Layout
 
 ```
-manifest.xml, monkey.jungle        Connect IQ project (product descentg2, minApiLevel 3.3.0)
+manifest.xml, monkey.jungle        Connect IQ project (products listed there, minApiLevel 3.1.0 for the Mk1)
 source/FishRegsApp.mc              loads regs.json once; app entry
 source/FishMenus.mc                group -> species -> field menus (native Menu2)
 source/FieldView.mc                one paged text screen (round-screen word wrap)

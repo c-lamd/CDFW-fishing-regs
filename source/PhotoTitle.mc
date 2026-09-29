@@ -1,5 +1,6 @@
 import Toybox.Graphics;
 import Toybox.Lang;
+import Toybox.Math;
 import Toybox.System;
 import Toybox.WatchUi;
 
@@ -45,7 +46,11 @@ class PhotoTitle extends WatchUi.Drawable {
         dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_BLACK);
         dc.clear();
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
-        dc.drawText(dc.getWidth() / 2, nameY, SUB_FONT, fit(dc, _name, s * 200 / 390), Graphics.TEXT_JUSTIFY_CENTER);
+        // Name width: the round screen's chord at the name's middle, less a margin (fonts differ per device).
+        var r = s / 2;
+        var dy = r - nameY - dc.getFontHeight(SUB_FONT) / 2;
+        var chord = 2 * Math.sqrt(r * r - dy * dy).toNumber() - s * 24 / 390;
+        dc.drawText(dc.getWidth() / 2, nameY, SUB_FONT, fit(dc, _name, chord), Graphics.TEXT_JUSTIFY_CENTER);
         // Photos come pre-scaled to full width and may be taller than the room left under the name
         // (data/photos.py CROP): centre them in that band and clip off the top and bottom.
         var top = nameY + dc.getFontHeight(SUB_FONT);

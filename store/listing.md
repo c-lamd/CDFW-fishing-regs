@@ -14,20 +14,22 @@ renders any size).
 
 **App name:** SoCal Ocean Fishing Regs (shows as "SoCal Regs" on the watch)
 **Type:** Device App · **Category:** Outdoor / Diving · **Price:** free
-**Version:** 1.0.0 (manifest.xml)
-**Devices:** Descent G2, Descent Mk3 43mm / Mk3i 43mm, Descent Mk3i 51mm, Descent Mk2 / Mk2i, Descent Mk2 S
+**Version:** 1.1.0 (manifest.xml)
+**Devices:** Descent G2, Descent Mk3 43mm / Mk3i 43mm, Descent Mk3i 51mm, Descent Mk2 / Mk2i, Descent Mk2 S,
+Descent Mk1, fenix 8 43mm / 47mm / 51mm, fenix 8 Pro, fenix 8 Solar 47mm / 51mm (plus tactix 8 / quatix 8 variants
+that share those profiles)
 **Permissions:** none. Works fully offline; collects and sends no data.
 
 ## Short description
 
-Unofficial SoCal fishing and spearfishing regs on your Descent, kept current with CDFW regulations: bag, size,
+Unofficial SoCal fishing and spearfishing regs on your Descent or fenix, kept current with CDFW regulations: bag, size,
 season and spear rules, with ID photos. Works offline.
 
 ## Description
 
 Check the rules before you pull the trigger. SoCal Ocean Fishing Regs puts California's recreational ocean fishing
 regulations for the Southern Management Area (Point Conception to the Mexico border, Channel Islands
-included) on your Descent, offline.
+included) on your Descent or fenix, offline.
 
 - 100+ species and rules in 7 groups: Bass & Reef Fish, Rockfish & Groundfish, Pelagics, Flatfish & Surf,
   Sharks & Rays, Lobster & Inverts, Rules & Spearfishing
@@ -52,6 +54,10 @@ wildlife.ca.gov before you dive or fish.
 
 Photos are from Wikimedia Commons under public domain and Creative Commons licenses. The author and license
 for each photo are shown in the app under that species ("Photo credit").
+
+## What's new (1.1.0)
+
+Now on the fenix 8 family and the Descent Mk1.
 
 ## What's new (1.0.0)
 
