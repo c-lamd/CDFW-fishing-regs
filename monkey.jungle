@@ -1,1 +1,8 @@
 project.manifest = manifest.xml
+
+# Photos (resources-photos/, source-photos/Photos.mc) ship everywhere except the Descent G1, which gets a
+# no-photo stub (source-g1/Photos.mc): 1-bit screen and a 96 KB app memory limit.
+base.sourcePath = source;source-photos
+base.resourcePath = resources;resources-photos
+descentg1.sourcePath = source;source-g1
+descentg1.resourcePath = resources

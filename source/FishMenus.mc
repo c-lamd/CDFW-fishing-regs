@@ -11,22 +11,12 @@ const LABELS = ["Bag", "Size", "Season", "Spear", "Notes", "Source"] as Array<St
 //! Top level: one item per group, in first-seen order, then About.
 function groupMenu() as Menu2 {
     var menu = new Menu2({:title => WatchUi.loadResource(Rez.Strings.AppName) as String});
-    var all = fish();
-    var groups = [] as Array<String>;
-    var counts = {} as Dictionary<String, Number>;
-    for (var i = 0; i < all.size(); i++) {
-        var g = all[i]["group"] as String;
-        if (!counts.hasKey(g)) {
-            groups.add(g);
-            counts[g] = 0;
-        }
-        counts[g] = (counts[g] as Number) + 1;
-    }
+    var groups = index()["groups"] as Array<String>;
+    var counts = index()["counts"] as Array<Number>;
     for (var i = 0; i < groups.size(); i++) {
-        var g = groups[i];
-        menu.addItem(new MenuItem(g, (counts[g] as Number).toString() + " entries", g, null));
+        menu.addItem(new MenuItem(groups[i], counts[i].toString() + " entries", i, null));
     }
-    menu.addItem(new MenuItem("About", "Regs as of " + (regs()["asof"] as String), :about, null));
+    menu.addItem(new MenuItem("About", "Regs as of " + (index()["asof"] as String), :about, null));
     return menu;
 }
 
@@ -41,20 +31,17 @@ class GroupDelegate extends Menu2InputDelegate {
             var v = new FieldView("About", aboutText());
             pushView(v, new FieldDelegate(v), SLIDE_LEFT);
         } else {
-            pushView(speciesMenu(id as String), new SpeciesDelegate(), SLIDE_LEFT);
+            pushView(speciesMenu(id as Number), new SpeciesDelegate(id as Number), SLIDE_LEFT);
         }
     }
 }
 
 //! One item per entry in the group. Sublabel is the glanceable pair: bag and size.
-function speciesMenu(group as String) as Menu2 {
-    var menu = new Menu2({:title => group});
-    var all = fish();
+function speciesMenu(g as Number) as Menu2 {
+    var menu = new Menu2({:title => (index()["groups"] as Array<String>)[g]});
+    var all = groupFish(g);
     for (var i = 0; i < all.size(); i++) {
         var f = all[i];
-        if (!(f["group"] as String).equals(group)) {
-            continue;
-        }
         var sub = glance(f);
         menu.addItem(new MenuItem(f["name"] as String, sub.equals("") ? null : sub, i, null));
     }
@@ -71,12 +58,15 @@ function glance(f as Dictionary<String, String>) as String {
 }
 
 class SpeciesDelegate extends Menu2InputDelegate {
-    function initialize() {
+    private var _g as Number;
+
+    function initialize(g as Number) {
         Menu2InputDelegate.initialize();
+        _g = g;
     }
 
     function onSelect(item as MenuItem) as Void {
-        var f = fish()[item.getId() as Number];
+        var f = groupFish(_g)[item.getId() as Number];
         if (glance(f).equals("")) {
             // A rule, not a species: nothing but notes, so skip straight to the text.
             var v = new FieldView(f["name"] as String, (f["notes"] as String) + "\n" + (f["src"] as String));
@@ -126,6 +116,6 @@ class DetailDelegate extends Menu2InputDelegate {
 
 function aboutText() as String {
     return "Unofficial guide to California recreational ocean sport fishing regs, Southern Management Area (Pt Conception to Mexico), as of "
-        + (regs()["asof"] as String)
+        + (index()["asof"] as String)
         + ". Compiled from CDFW and 14 CCR and kept current with CDFW rules; not affiliated with CDFW. Photos from Wikimedia Commons; credit and license under each species. Not legal advice: regs change in-season and MPAs are not listed. Verify at wildlife.ca.gov before you dive.";
 }

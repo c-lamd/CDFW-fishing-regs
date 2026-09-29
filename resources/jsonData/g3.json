@@ -1,0 +1,128 @@
+[
+{
+"name": "California halibut",
+"bag": "5 (south of Point Sur)",
+"size": "22 in TL",
+"season": "All year",
+"spear": "OK",
+"notes": "Boat limits apply. Fillets allowed only S of Pt Arena: each fillet min 16.75 in with ENTIRE skin intact, not cut in half (lengthwise midline cut OK if joined 2 in at one end). Measure TL mouth closed to end of longest tail lobe.",
+"src": "14 CCR §28.15, §27.65(b)(6)"
+},
+{
+"name": "Pacific sanddab",
+"bag": "No limit",
+"size": "None",
+"season": "All year, all depths",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Federal groundfish ('other flatfish'). No take in the 8 offshore Groundfish Exclusion Areas (§27.50). Does not count toward 20-fish general limit. Other sanddab species (speckled, longfin) fall under general 10/20 limit.",
+"src": "14 CCR §28.48, §27.60(b)"
+},
+{
+"name": "Soles (rock/sand/butter)",
+"bag": "10 per species, part of 20 finfish total",
+"size": "None",
+"season": "All year, all depths",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Rock, sand, butter, curlfin, rex and flathead sole = federal 'other flatfish' (§1.91(a)(10)). No take in Groundfish Exclusion Areas (§27.50). Fillets need 1 in square skin patch.",
+"src": "14 CCR §28.48"
+},
+{
+"name": "Petrale sole / starry flounder",
+"bag": "No limit",
+"size": "None",
+"season": "All year, all depths",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Federal groundfish regulated as a pair under §28.47. No take in Groundfish Exclusion Areas (§27.50). Not counted toward 20-fish general limit (§27.60(b)).",
+"src": "14 CCR §28.47, §27.60(b)"
+},
+{
+"name": "Other flatfish (turbots, C-O)",
+"bag": "10 per species, part of 20 finfish total",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Diamond turbot, hornyhead turbot, C-O sole, fantail sole, speckled sanddab etc. are NOT federal groundfish; general limit §27.60(a) applies. ID caution: juvenile California halibut have a 22 in size limit.",
+"src": "14 CCR §27.60(a), §28.48"
+},
+{
+"name": "Surfperch (all species)",
+"bag": "20 combined (excl. shiner), max 10 of any one species",
+"size": "None (redtail 10.5 in TL)",
+"season": "All year",
+"spear": "OK",
+"notes": "Family Embiotocidae: barred, walleye, rubberlip, black, pile, white etc. Counts toward 20-finfish general limit. SF/San Pablo Bay 5-fish limit and Apr-Jul closure do not apply in SoCal. Fillets need 1 in square skin patch.",
+"src": "14 CCR §28.59"
+},
+{
+"name": "Redtail surfperch",
+"bag": "10, within 20 surfperch combined",
+"size": "10.5 in TL",
+"season": "All year",
+"spear": "OK",
+"notes": "Only surfperch with a size limit; therefore may not be filleted on a boat or brought ashore as fillets (§27.65(c)). Mainly a central/northern species, uncommon in SoCal.",
+"src": "14 CCR §28.59(d), §27.65(c)"
+},
+{
+"name": "Shiner perch",
+"bag": "20, in addition to 20-finfish general limit",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Special limit of 20 shiner perch does not count toward the 20 surfperch aggregate or the 20-finfish general limit. Also legal by dip net / baited hoop net (§28.80). Bait-size fish; rarely speared.",
+"src": "14 CCR §28.59(c)(2)"
+},
+{
+"name": "California corbina",
+"bag": "10, part of 20 finfish total",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "No species-specific section; general limit §27.60(a). Fillets need 1 in square skin patch. Often found in surf zone inside MPAs (check MPA boundaries).",
+"src": "14 CCR §27.60(a)"
+},
+{
+"name": "Spotfin croaker",
+"bag": "10, part of 20 finfish total",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Not named in regs; general limit §27.60(a) applies. Fillets need 1 in square skin patch. Check OEHHA consumption advisories for LA/Orange County coast.",
+"src": "14 CCR §27.60(a)"
+},
+{
+"name": "Yellowfin croaker",
+"bag": "10, part of 20 finfish total",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Not named in regs; general limit §27.60(a) applies. Fillets need 1 in square skin patch.",
+"src": "14 CCR §27.60(a)"
+},
+{
+"name": "White croaker (tomcod)",
+"bag": "10, part of 20 finfish total",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "General limit §27.60(a). HEALTH: OEHHA advises against eating white croaker from the Palos Verdes/Santa Monica Bay area (PCB/DDT); §104 commercial closure off Pt Vicente-Pt Fermin is commercial only. See oehha.ca.gov/fish.",
+"src": "14 CCR §27.60(a)"
+},
+{
+"name": "Salmon (Chinook)",
+"bag": "2 (hook and line only); coho 0",
+"size": "20 in TL",
+"season": "Sep 1 - Sep 30, 2026 (Pigeon Pt to Mexico) or until 20,000 fall guideline",
+"spear": "PROHIBITED by spear (hook and line only)",
+"notes": "§28.90 excludes salmon from spearfishing; angling only (§27.80(a)). No coho retention. Possession: max 2 daily limits on land, 1 on a vessel. NMFS may close early; call (800) 662-9825. Uncommon south of Pt Conception.",
+"src": "14 CCR §27.80, §28.90"
+},
+{
+"name": "Striped bass",
+"bag": "2",
+"size": "None south of Pt Conception (18 in TL north)",
+"season": "All year",
+"spear": "OK (§27.85(d) allows spearfishing)",
+"notes": "Rare in SoCal ocean waters. No sinker over 4 lb, no power gurdy/winch; snagging illegal. OEHHA mercury advisory for striped bass (fish that migrate).",
+"src": "14 CCR §27.85"
+}
+]

@@ -1,0 +1,119 @@
+[
+{
+"name": "License & Ocean Enhancement",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "Age 16+ must carry a sport fishing license (public piers excepted). Ocean Enhancement Validation required in ocean waters south of Pt Arguello = all SoCal; not needed with a 1- or 2-day license. Lobster report card needed at any age. OEV statute (FGC 6596) not read; CDFW licensing page only.",
+"src": "FGC §7145; CDFW licensing page"
+},
+{
+"name": "General finfish bag limit",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "20 finfish total, max 10 of any one species, where no species limit is listed; possession = daily bag. Species with their own limit (bass, sheephead, halibut, RCG...) use that instead. No limit: Pacific/jack mackerel, sardine, anchovy, queenfish, sanddabs, skipjack, topsmelt, jacksmelt.",
+"src": "14 CCR §27.60"
+},
+{
+"name": "Spear-prohibited species",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "Anyone in the water (freediving or scuba) may spear finfish EXCEPT giant (black) sea bass, garibaldi, gulf grouper, broomtail grouper, trout, salmon, broadbill swordfish. §1.76: spearfishing = take by spear or hand while in the water. Stream-mouth 100 yd spear ban applies only north of Ventura Co.",
+"src": "14 CCR §28.90, §1.76"
+},
+{
+"name": "Spears & harpoons (§28.95)",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "Spears/harpoons/bow may take all skates, rays and sharks except white shark. Harpoon may assist landing Pacific halibut (§28.20). Such gear may not be aboard a vessel on any day/trip when swordfish or marlin were taken. Otherwise finfish only by hook-and-line, hand (§28.65) or spear (§28.90).",
+"src": "14 CCR §28.95, §28.65"
+},
+{
+"name": "Diver groundfish exemption",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "§27.20(b)(1)(D): diving/spearfishing, all groundfish except bronzespotted, cowcod, quillback, yelloweye may be taken/possessed year-round. When boat-based groundfish fishing is closed (SoCal 2026 RCG: Jan 1-Mar 31, Oct 1-Dec 31) ONLY spear gear may be aboard the boat/kayak. Bag limits still apply.",
+"src": "14 CCR §27.20(b)(1)(D), §28.90(b)"
+},
+{
+"name": "Fillet rules (§27.65)",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "No filleting on any boat or bringing fish ashore as fillets except per §27.65: kelp/sand bass 7.5 in + 1 in sq skin; white seabass 19 in silver skin; sheephead 6.75 in entire skin; CA halibut 16.75 in entire skin; yellowtail/barracuda 17 in; rockfish/scorpionfish/lingcod whole skin. Keep whole.",
+"src": "14 CCR §27.65"
+},
+{
+"name": "Length definitions (TL/FL/AL)",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "TL: tip of head (mouth closed, fish flat) to end of longest tail lobe. FL: tip of head to center of tail fork. AL (alternate length): base of the foremost first-dorsal spine to end of longest tail lobe, used when the head is removed (bass 10 in, white seabass 20.5 in, barracuda 17 in).",
+"src": "14 CCR §1.62"
+},
+{
+"name": "Lobster report card & gauge",
+"bag": "",
+"size": "3.25 in carapace, measured in water",
+"season": "Oct 2, 2026 6:00 pm - Mar 17, 2027",
+"spear": "Hands only - no spear, no hooked device",
+"notes": "Report card required (any age); on you, in the boat, or within 500 yd of shore entry. Record date/location/gear code BEFORE diving, count kept AFTER. Report by Apr 30 or pay non-return fee. Carry a gauge; measure in water, never surface a short. Keep whole. Spear OK to carry if not used on lobster.",
+"src": "§29.80(g), §29.90, §29.91, §29.05"
+},
+{
+"name": "Marine Protected Areas",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "SoCal coast and Channel Islands have many SMRs (no take of anything) and SMCAs (species/gear limits). Boundaries rarely buoyed; you must know your position (CDFW Ocean Sport Fishing Interactive Web Map). Transit through an MPA only with spear unloaded, not in hand, diver on surface.",
+"src": "14 CCR §632"
+},
+{
+"name": "Hours of take (day/night)",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "Finfish: no closed hours in the Pacific Ocean or saltwater bays (only SF Bay has a night rule). Invertebrates incl. lobster: no closed hours (§29.05). Lobster season itself opens 6:00 pm Fri Oct 2, 2026. Hoop nets banned S of Pt Arguello 24 h before opener (divers unaffected).",
+"src": "14 CCR §27.56, §29.05, §29.90"
+},
+{
+"name": "Mexican waters not covered",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "CA regs end at the US-Mexico border; Mexico needs its own license/permit and rules. Fish brought back must be legally taken there and declared on form DFW 901 at/before entry (FGC 2353, 14 CCR 712.5). Giant sea bass: max 2 per angler per trip from south of border, Mexican permit as proof (§28.10).",
+"src": "FGC §2353; 14 CCR §712.5, §28.10"
+},
+{
+"name": "Descending device (boats)",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "§27.20(b)(2): no one may take or possess federal groundfish or greenlings from any boat or other floating device without a descending device available for immediate use. No diver exemption: diving from a boat/kayak with rockfish, lingcod, cabezon or greenling aboard, carry one. Shore dive: n/a.",
+"src": "14 CCR §27.20(b)(2)"
+},
+{
+"name": "Harbors & bays",
+"bag": "",
+"size": "",
+"season": "",
+"spear": "",
+"notes": "No statewide CCR rule closes harbors or bays to spearfishing; ocean regs apply in bays contiguous to the ocean (§27.00). Some SoCal MPAs cover bay/harbor waters (check map), and city/harbor-district ordinances may ban spearfishing or loaded spears. UNCONFIRMED: local ordinances were not verified.",
+"src": "14 CCR §27.00, §632; local ordinances"
+}
+]

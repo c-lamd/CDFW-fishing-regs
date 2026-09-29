@@ -1,0 +1,146 @@
+[
+{
+"name": "Leopard shark",
+"bag": "3",
+"size": "36 in TL",
+"season": "All year, all depths",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Federal groundfish. No take in 8 offshore Groundfish Exclusion Areas (§27.50). Has size limit and no fillet size specified: may NOT be filleted aboard or brought ashore as fillets (§27.65(c)). ID vs smoothhounds/soupfin.",
+"src": "14 CCR §28.56, §27.65(c)"
+},
+{
+"name": "Soupfin shark",
+"bag": "1",
+"size": "None",
+"season": "All year, all depths",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Federal groundfish (§28.49). No take in Groundfish Exclusion Areas (§27.50). ID caution: smoothhounds (10 limit) and leopard shark (3, 36 in) look similar. Fillets need 1 in square skin patch.",
+"src": "14 CCR §28.49(b)(1)"
+},
+{
+"name": "Shortfin mako shark",
+"bag": "2",
+"size": "None",
+"season": "All year",
+"spear": "OK (§28.95: sharks except white)",
+"notes": "§28.42 gives 2 of each species (mako, thresher, blue). Highly migratory species (§1.49). Fillets need 1 in square skin patch. Dangerous to spear; longfin mako not separately regulated.",
+"src": "14 CCR §28.42, §28.95"
+},
+{
+"name": "Thresher shark",
+"bag": "2",
+"size": "None",
+"season": "All year",
+"spear": "OK (§28.95: sharks except white)",
+"notes": "§28.42: 2 of each species (mako, thresher, blue). Common, pelagic and bigeye threshers are all HMS (§1.49); the section does not split them, so treat as 2 thresher. Fillets need 1 in square skin patch.",
+"src": "14 CCR §28.42, §28.95"
+},
+{
+"name": "Blue shark",
+"bag": "2",
+"size": "None",
+"season": "All year",
+"spear": "OK (§28.95: sharks except white)",
+"notes": "§28.42: 2 of each species (mako, thresher, blue). Highly migratory species (§1.49). Fillets need 1 in square skin patch.",
+"src": "14 CCR §28.42, §28.95"
+},
+{
+"name": "Sixgill shark",
+"bag": "1",
+"size": "None",
+"season": "All year",
+"spear": "OK (§28.95: sharks except white)",
+"notes": "§28.41: one of each species (sixgill, sevengill). Deep-water; rarely encountered by freedivers. Fillets need 1 in square skin patch.",
+"src": "14 CCR §28.41, §28.95"
+},
+{
+"name": "Broadnose sevengill shark",
+"bag": "1",
+"size": "None",
+"season": "All year",
+"spear": "OK (§28.95: sharks except white)",
+"notes": "§28.41: one of each species (sixgill, sevengill). Fillets need 1 in square skin patch.",
+"src": "14 CCR §28.41, §28.95"
+},
+{
+"name": "White shark",
+"bag": "0 - no take",
+"size": "N/A",
+"season": "Closed all year",
+"spear": "PROHIBITED - no take at all",
+"notes": "If hooked/speared accidentally, release immediately; do not remove from water. FGC §5517 also bans using bait/chum to attract white sharks and chumming within 1 nm of shore/pier/jetty when a white shark is visible or known present. §28.95 excludes white shark from spear-legal sharks.",
+"src": "14 CCR §28.06, FGC §5517, §28.95"
+},
+{
+"name": "Bat ray",
+"bag": "10, part of 20 finfish total",
+"size": "None",
+"season": "All year",
+"spear": "OK (§28.95: skates, rays, sharks)",
+"notes": "No species-specific section; general limit §27.60(a). Rays are 'finfish' (§1.46). Not a federal groundfish (§28.49 skates list excludes rays). Fillets/wings need 1 in square skin patch.",
+"src": "14 CCR §27.60(a), §28.95"
+},
+{
+"name": "Shovelnose guitarfish",
+"bag": "10, part of 20 finfish total",
+"size": "None",
+"season": "All year",
+"spear": "OK (§28.95: skates, rays, sharks)",
+"notes": "No species-specific section; general limit §27.60(a). Guitarfish are rays, not federally managed skates. Fillets need 1 in square skin patch.",
+"src": "14 CCR §27.60(a), §28.95"
+},
+{
+"name": "Pacific angel shark",
+"bag": "10, part of 20 finfish total",
+"size": "None",
+"season": "All year",
+"spear": "OK (§28.95: skates, rays, sharks)",
+"notes": "No species-specific section; §28.49 states it does not apply to 'other species of ... sharks', so general limit §27.60(a) governs. Fillets need 1 in square skin patch.",
+"src": "14 CCR §27.60(a), §28.95"
+},
+{
+"name": "Horn shark",
+"bag": "10, part of 20 finfish total",
+"size": "None",
+"season": "All year",
+"spear": "OK (§28.95: skates, rays, sharks)",
+"notes": "No species-specific section; general limit §27.60(a). Fillets need 1 in square skin patch.",
+"src": "14 CCR §27.60(a), §28.95"
+},
+{
+"name": "Swell shark",
+"bag": "10, part of 20 finfish total",
+"size": "None",
+"season": "All year",
+"spear": "OK (§28.95: skates, rays, sharks)",
+"notes": "No species-specific section; general limit §27.60(a). Fillets need 1 in square skin patch.",
+"src": "14 CCR §27.60(a), §28.95"
+},
+{
+"name": "Smoothhounds (gray/brown)",
+"bag": "10 per species, part of 20 finfish total",
+"size": "None",
+"season": "All year",
+"spear": "OK (§28.95: skates, rays, sharks)",
+"notes": "No species-specific section; general limit §27.60(a). ID CAUTION: soupfin shark (limit 1, §28.49) and leopard shark (3, 36 in) are similar - confirm dorsal fin position/tooth shape before shooting. Fillets need 1 in square skin patch.",
+"src": "14 CCR §27.60(a), §28.95"
+},
+{
+"name": "Skates (big/CA/longnose)",
+"bag": "10 per species, part of 20 finfish total",
+"size": "None",
+"season": "All year, all depths",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "All skates are federal groundfish (§28.49, §1.91(a)(6)). No take in Groundfish Exclusion Areas (§27.50). Spear legal per §28.95. Fillets/wings need 1 in square skin patch.",
+"src": "14 CCR §28.49, §28.95"
+},
+{
+"name": "Spiny dogfish",
+"bag": "10, part of 20 finfish total",
+"size": "None",
+"season": "All year, all depths",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Federal groundfish (§28.49). No take in Groundfish Exclusion Areas (§27.50). Venomous dorsal spines. Fillets need 1 in square skin patch.",
+"src": "14 CCR §28.49"
+}
+]

@@ -2,21 +2,33 @@ import Toybox.Application;
 import Toybox.Lang;
 import Toybox.WatchUi;
 
-// All regulation data lives in resources/jsonData/regs.json; this file is the only place it is read.
-// ponytail: whole file held in memory (~30 KB of strings on a 768 KB budget). Split per group if it ever grows past that.
-var gRegs as Dictionary<String, Object>?;
+// Regulation data: edit resources/jsonData/regs.json; data/split.py (run by build.sh) splits it into index.json
+// and one g<N>.json per group. This file is the only place they are read. Only the index and the open group are
+// held in memory, so the app fits the Descent G1's 96 KB.
+var gIndex as Dictionary<String, Object>?;
+var gGroup as Number = -1;
+var gFish as Array<Dictionary<String, String>>?;
 
-function regs() as Dictionary<String, Object> {
-    var r = gRegs;
+//! asof, group names and per-group counts.
+function index() as Dictionary<String, Object> {
+    var r = gIndex;
     if (r == null) {
-        r = WatchUi.loadResource(Rez.JsonData.regs) as Dictionary<String, Object>;
-        gRegs = r;
+        r = WatchUi.loadResource(Rez.JsonData.index) as Dictionary<String, Object>;
+        gIndex = r;
     }
     return r;
 }
 
-function fish() as Array<Dictionary<String, String>> {
-    return regs()["fish"] as Array<Dictionary<String, String>>;
+//! The entries of group g; loading one group drops the previous one.
+function groupFish(g as Number) as Array<Dictionary<String, String>> {
+    var f = gFish;
+    if (f == null || g != gGroup) {
+        gFish = null;      // release the old group before the new one loads, so peak memory is one group
+        f = WatchUi.loadResource(groupData(g)) as Array<Dictionary<String, String>>;
+        gFish = f;
+        gGroup = g;
+    }
+    return f;
 }
 
 class FishRegsApp extends Application.AppBase {

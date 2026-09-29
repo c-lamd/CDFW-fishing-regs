@@ -1,0 +1,182 @@
+[
+{
+"name": "California spiny lobster",
+"bag": "7 daily and in possession",
+"size": "3.25 in carapace (eye socket to rear of shell)",
+"season": "Oct 2, 2026 6:00 pm - Mar 17, 2027 (closed now)",
+"spear": "Hand or hoop net only, no spear",
+"notes": "Divers: hands only, no hooked device; a spear may be carried but not used on lobster. Measure in the water; shorts never leave the water or enter a bag. Keep whole. Carry a gauge. Report card: fill in BEFORE entering the water. Hoop nets max 5/person, 10/vessel.",
+"src": "§29.90, §29.91, §29.80, §1.74"
+},
+{
+"name": "Rock crabs (red/yellow/brown)",
+"bag": "35",
+"size": "4 in across widest part of shell",
+"season": "All year",
+"spear": "Hands only (or hoop net); no spear",
+"notes": "Reg text says Cancer genus incl. yellow, rock, red crabs; CDFW applies it to red (C. productus), yellow (Metacarcinus anthonyi), brown (Romaleon antennarium). Measure immediately, release undersize at once, none in any container. Carry gauge. Divers hands only. Crab traps only N of Pt Arguello.",
+"src": "§29.85(c),(d), §29.80(g)"
+},
+{
+"name": "Sheep crab (spider crab)",
+"bag": "35 (general limit, all non-Cancer crabs)",
+"size": "None",
+"season": "All year",
+"spear": "Hands only (or hoop net); no spear",
+"notes": "No species-specific section; booklet table 'Crab, Other: 35 crabs, no size, §29.05'. Divers hands only, no hooked device (§29.80(g)). Hoop nets may take all crab species. Same 35 covers other non-Cancer crabs (kelp crab etc.).",
+"src": "§29.05(a), §29.80"
+},
+{
+"name": "Rock scallop",
+"bag": "10",
+"size": "None",
+"season": "All year",
+"spear": "Hand, dive knife or ab iron only; no spear",
+"notes": "Only hand, dive knife or abalone iron (iron per §29.15(e)). Up to 3 limits on a declared multi-day boat trip (§27.15). Some SMCAs (e.g. Kashtayit) exclude rock scallops from allowed take; check MPA rules. Allowed in intertidal zone.",
+"src": "§29.60, §27.15"
+},
+{
+"name": "Red sea urchin",
+"bag": "35 daily and possession",
+"size": "None",
+"season": "All year",
+"spear": "Hand take; spear not an authorized method",
+"notes": "35 per species (§29.06(a)). Skin/scuba divers may take (§29.05(d)). Listed tidepool species, so intertidal take allowed outside MPAs. Take of all inverts prohibited in state marine reserves.",
+"src": "§29.06(a), §29.05"
+},
+{
+"name": "Purple sea urchin",
+"bag": "35 daily; no possession limit",
+"size": "None",
+"season": "All year",
+"spear": "Hand take; spear not an authorized method",
+"notes": "40-gallon limit and Caspar Cove unlimited take apply ONLY to Humboldt/Mendocino/Sonoma - not SoCal. In SoCal: 35/day, no possession limit. Divers may take.",
+"src": "§29.06"
+},
+{
+"name": "Octopus",
+"bag": "35",
+"size": "None",
+"season": "All year",
+"spear": "PROHIBITED by spear (hands or hook & line only)",
+"notes": "Mollusk: may be taken only by hook and line or with the hands (§29.10). Bag 35 under general limit. Allowed in intertidal (listed species) outside MPAs.",
+"src": "§29.10, §29.05"
+},
+{
+"name": "Warty sea cucumber",
+"bag": "35 (general limit)",
+"size": "None",
+"season": "All year",
+"spear": "Hand only per CDFW; no spear",
+"notes": "No dedicated section; §29.05 general 35 applies. NOT on the §29.05(b) tidepool list: no take between high tide mark and 1,000 ft seaward (intertidal/nearshore). CDFW species page states hands only (page could not be read directly; confirmed via search snippet only). Same for giant red sea cucumber.",
+"src": "§29.05"
+},
+{
+"name": "Market squid",
+"bag": "No limit",
+"size": "None",
+"season": "All year",
+"spear": "Hand-held dip net (or hands/hook & line); no spear",
+"notes": "§29.70: hand-held dip nets, no limit (also jumbo squid). Mollusk general rule §29.10 allows hands or hook and line. Listed tidepool species.",
+"src": "§29.70, §29.10"
+},
+{
+"name": "Mussels (California & bay)",
+"bag": "10 lb in shell, both species combined",
+"size": "None",
+"season": "All year; CDPH quarantine May 1 - Oct 31: bait use only",
+"spear": "Hand; no spear",
+"notes": "Annual CDPH quarantine (2026 notice SN26-008) May 1 through normally Oct 31, may be extended: sport mussels may only be harvested for bait, do not eat (PSP/domoic acid). Southern summary Sep 2026: non-consumptive use only. Kashtayit SMCA excludes mussels. Biotoxin line 800-553-4133.",
+"src": "§29.55, §29.05; CDPH quarantine"
+},
+{
+"name": "Pismo clam",
+"bag": "10",
+"size": "4.5 in shell diameter (south of SLO/Monterey line)",
+"season": "All year (SoCal); hours 1/2 hr before sunrise to 1/2 hr after sunset",
+"spear": "Hand-operated digging tools only; no spear",
+"notes": "Hand tools only (spade, shovel, fork, rake, clam gun); no digging tools on beach at night. Measure at once, rebury undersize where dug. Keep whole; each person own container, no commingling. Carry gauge. No take in MPAs that prohibit clams. Check domoic acid advisories.",
+"src": "§29.40, §29.20"
+},
+{
+"name": "Littleneck/chione/cockle clams",
+"bag": "50 combined (littleneck, chione, cockle, quahog, soft-shell)",
+"size": "1.5 in greatest diameter (no size for soft-shell)",
+"season": "All year; hours 1/2 hr before sunrise to 1/2 hr after sunset",
+"spear": "Hand-operated digging tools only; no spear",
+"notes": "§29.35 group: littleneck, soft-shell, chiones, northern quahogs, cockles. All soft-shells dug must be retained until limit. General clam rules §29.20: hand tools only, rebury undersize, keep whole, separate container per person, carry gauge.",
+"src": "§29.35, §29.20"
+},
+{
+"name": "Gaper & Washington clams",
+"bag": "10 of each species",
+"size": "None",
+"season": "All year; hours 1/2 hr before sunrise to 1/2 hr after sunset",
+"spear": "Hand-operated digging tools only; no spear",
+"notes": "Horse/horseneck clams = gaper clams. All gaper and Washington clams dug, regardless of size or broken condition, must be retained until limit reached. Humboldt Bay/Elkhorn Slough exceptions do not apply in SoCal. General clam rules §29.20 apply.",
+"src": "§29.25, §29.20"
+},
+{
+"name": "Abalone (all species)",
+"bag": "0 - no take",
+"size": "N/A",
+"season": "Closed",
+"spear": "PROHIBITED - no take at all",
+"notes": "All species (red, green, pink, black, white). Booklet (Jul 17, 2026): all ocean waters closed; abalone may not be taken or possessed, closure runs to Apr 1, 2036. Southern summary: no abalone may be taken at any time in Southern California.",
+"src": "§29.15"
+},
+{
+"name": "Kellet's whelk",
+"bag": "35",
+"size": "None",
+"season": "Jul 1 - Mar 17, 2027 (closed Mar 18 - Jun 30)",
+"spear": "Hand or hook & line only; no spear",
+"notes": "Season Jul 1 through first Wednesday after Mar 15 (§29.17). Bag 35 via general limit. Mollusk: hands or hook and line only (§29.10). NOT on the tidepool list: no take between high tide mark and 1,000 ft seaward.",
+"src": "§29.17, §29.05, §29.10"
+},
+{
+"name": "Moon snail",
+"bag": "5",
+"size": "None",
+"season": "All year (SoCal)",
+"spear": "Hand or hook & line only; no spear",
+"notes": "§29.71 limit 5; closure north of Golden Gate does not apply in SoCal. Mollusk: hands or hook and line (§29.10). Listed tidepool species.",
+"src": "§29.71, §29.10"
+},
+{
+"name": "Limpets",
+"bag": "35",
+"size": "None",
+"season": "All year",
+"spear": "Hand or hook & line only; no spear",
+"notes": "General 35 limit (§29.05); includes owl limpets. Mollusk: hands or hook and line. Listed tidepool species, but take of all inverts prohibited in state marine reserves and many SoCal SMCAs; check MPA.",
+"src": "§29.05, §29.10"
+},
+{
+"name": "Kelp & marine plants",
+"bag": "10 lb wet weight, all plants aggregate",
+"size": "None",
+"season": "All year",
+"spear": "Hand harvest; N/A",
+"notes": "§30.00 10 lb wet weight aggregate. §30.10: eelgrass (Zostera), surfgrass (Phyllospadix), sea palm (Postelsia) may not be cut or disturbed at all. No harvest in state marine reserves; some SMCAs restrict (Kashtayit allows giant kelp by hand only).",
+"src": "§30.00, §30.10"
+},
+{
+"name": "Speckled (bay) scallop",
+"bag": "0 - no take",
+"size": "N/A",
+"season": "Closed",
+"spear": "PROHIBITED - no take at all",
+"notes": "§29.65: may not be taken or possessed. Found in SoCal bays/harbors. Do not confuse with rock scallop (10 limit).",
+"src": "§29.65"
+},
+{
+"name": "Other invertebrates (general)",
+"bag": "35 per species unless a specific limit applies",
+"size": "None unless listed",
+"season": "All year unless listed",
+"spear": "Hands (crustaceans); hands/hook & line (mollusks)",
+"notes": "§29.05: 35 per species unless a specific limit; no closed season or size unless listed. No take of any invert in state marine reserves; SMCAs vary. Intertidal (high tide mark to 1,000 ft seaward): only listed species (lobster, crabs, urchins, octopus, mussels, rock scallop, limpets, clams, snails).",
+"src": "§29.05, §29.10, §29.80(g)"
+}
+]

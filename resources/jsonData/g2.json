@@ -1,0 +1,146 @@
+[
+{
+"name": "Yellowtail",
+"bag": "10 (part of 20-fish general limit)",
+"size": "24 in FL (up to 5 under)",
+"season": "All year",
+"spear": "OK",
+"notes": "Up to 5 of the 10 may be under 24 in fork length. Boat fillets: min 17 in, max 10 fillets under 17 in, each with 1-in square skin patch. Same rule for divers and boats.",
+"src": "14 CCR §28.37, §27.65(b)(7)"
+},
+{
+"name": "Pacific bonito",
+"bag": "10 (part of 20-fish general limit)",
+"size": "24 in FL or 5 lb (up to 5 under)",
+"season": "All year",
+"spear": "OK",
+"notes": "Up to 5 fish may be under 24 in FL OR under 5 lb. Boat fillets: max 10 fillets of any length, all count against the 5-undersized tolerance, 1-in square skin patch each.",
+"src": "14 CCR §28.32, §27.65(b)(5)"
+},
+{
+"name": "California barracuda",
+"bag": "10 (part of 20-fish general limit)",
+"size": "28 in TL or 17 in AL",
+"season": "All year",
+"spear": "OK",
+"notes": "No undersized tolerance. Boat fillets: min 17 in w/ 1 in sq patch of silver skin. AL (§1.62) = base of 1st dorsal spine to end of longest tail lobe; used when the head is removed, tail must stay on.",
+"src": "14 CCR §28.25, §27.60(a), §27.65(b)(2)"
+},
+{
+"name": "Mackerel (Pacific & jack)",
+"bag": "No limit",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Booklet lists Pacific (chub) and jack mackerel as one row under §27.60(b). Not counted toward the 20-fish general limit.",
+"src": "14 CCR §27.60(b)"
+},
+{
+"name": "Dorado (dolphinfish)",
+"bag": "10 (part of 20-fish general limit)",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "No species-specific section; general limit applies. Boat fillets any size with 1-in square skin patch (§27.65(b)(13)). Classed as highly migratory species.",
+"src": "14 CCR §27.60(a), §27.65(b)(13)"
+},
+{
+"name": "Albacore",
+"bag": "10 S of Pt Conception (25 N); extra to 20 general",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Special limit in addition to the 20-fish general limit. Boat fillets S of Pt Conception: each fish bagged separately, bag marked with species name, cut into 6 pieces w/ all skin (4 loins, collar w/ both pectorals, belly w/ vent & both pelvics).",
+"src": "14 CCR §28.38(a), §27.65(b)(11)"
+},
+{
+"name": "Bluefin tuna",
+"bag": "2, in addition to 20-fish general limit",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Limit applies to all bluefin possessed regardless of where taken (incl. Mexican waters). Boat fillets S of Pt Conception: each fish individually bagged, bag marked w/ species, cut into 6 pieces with all skin attached.",
+"src": "14 CCR §28.38(b), §27.65(b)(11)"
+},
+{
+"name": "Skipjack tuna",
+"bag": "No limit",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Not counted toward the 20-fish general limit. Same 6-piece bagging rule as other tunas if filleted on a boat S of Pt Conception (§27.65(b)(11)).",
+"src": "14 CCR §27.60(b), §28.38(c)"
+},
+{
+"name": "Yellowfin/bigeye/other tuna",
+"bag": "10 (part of 20-fish general limit)",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "CDFW regulates yellowfin, bigeye and all other unlisted tunas as one 10-fish row; unlike albacore/bluefin these count toward the 20-fish total. Boat fillets S of Pt Conception: 6-piece bagging rule w/ all skin attached.",
+"src": "14 CCR §28.38(d), §27.60(a)"
+},
+{
+"name": "Wahoo",
+"bag": "10 (part of 20-fish general limit)",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Not individually listed in the 2026 booklet; general 10-per-species limit under §27.60(a) applies (also 10 if treated as 'other tuna' under §28.38(d)). Boat fillets: any size, 1-in skin patch.",
+"src": "14 CCR §27.60(a)"
+},
+{
+"name": "Striped marlin",
+"bag": "1 (black, blue, striped combined)",
+"size": "None",
+"season": "All year",
+"spear": "OK (not on §28.90 prohibited list)",
+"notes": "§28.95: spears, harpoons or bow gear may not be aboard any vessel on a day or trip when marlin has been taken. Booklet: marlin is not allowed for commercial take. Classed as highly migratory species.",
+"src": "14 CCR §28.50, §28.95"
+},
+{
+"name": "Broadbill swordfish",
+"bag": "2",
+"size": "None",
+"season": "All year",
+"spear": "PROHIBITED by spear (hook and line only)",
+"notes": "§28.90 excludes broadbill from spearfishing take; §28.95 also bars bow and arrow and bars spears/harpoons aboard any vessel on a day or trip when swordfish has been taken.",
+"src": "14 CCR §28.40, §28.90, §28.95"
+},
+{
+"name": "Jacksmelt",
+"bag": "No limit",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Not counted toward the 20-fish general limit. Bait species.",
+"src": "14 CCR §27.60(b)"
+},
+{
+"name": "Topsmelt",
+"bag": "No limit",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Not counted toward the 20-fish general limit. May also be taken with dip nets of any size or baited hoop nets up to 36 in (§28.80). Bait species.",
+"src": "14 CCR §27.60(b), §28.80"
+},
+{
+"name": "Pacific sardine",
+"bag": "No limit",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Not counted toward the 20-fish general limit. Bait species. 2026 domoic acid consumption advisories were issued in-season for Monterey Bay only (not SoCal); check the Inseason page.",
+"src": "14 CCR §27.60(b)"
+},
+{
+"name": "Northern anchovy",
+"bag": "No limit",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Not counted toward the 20-fish general limit. Dip net/baited hoop net up to 36 in allowed (§28.80). 2026 domoic acid take restrictions (Sept 11, 2026) apply to Monterey Bay only, not SoCal; check the Inseason page.",
+"src": "14 CCR §27.60(b), §28.80"
+}
+]

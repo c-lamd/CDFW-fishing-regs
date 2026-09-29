@@ -1,0 +1,182 @@
+[
+{
+"name": "Rockfish (RCG complex)",
+"bag": "10 combined RCG (all rockfish+cabezon+greenling)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Divers/shore exempt from boat season/depth rules (§27.20(b)(1)(D)). Sub-limits: copper 1, verm/sunset 2, canary 2; bronzespotted/cowcod/quillback/yelloweye 0. 8 offshore Groundfish Exclusion Areas closed to all (§27.50). Boat season closed: only spear gear aboard (§28.90(b)). Fillets whole skin.",
+"src": "§28.55, §27.45, §27.20(b)(1)(D)"
+},
+{
+"name": "Vermilion/sunset rockfish",
+"bag": "2 combined verm+sunset (within 10 RCG)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun, Jul-Sep <50 fm, Oct-Dec >50 fm, Jan-Mar closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Regulated as one unit; sunset is near-identical to vermilion. Shelf rockfish (§1.91(a)(3)): boat Oct-Dec only seaward of 50 fm. Sub-limit applies regardless of where taken. ID: rough chin, mottled red; canary has smooth chin and clear lateral line.",
+"src": "§28.55(b)(2)(B)"
+},
+{
+"name": "Copper rockfish",
+"bag": "1 (within 10 RCG)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Nearshore rockfish (§1.91(a)(1)): boat closed Oct-Dec. Statewide 1-fish sub-limit. ID caution: quillback (0 limit) and brown rockfish look similar; copper has pale lateral-line stripe on rear 2/3 of body.",
+"src": "§28.55(b)(3)"
+},
+{
+"name": "Canary rockfish",
+"bag": "2 (within 10 RCG)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun, Jul-Sep <50 fm, Oct-Dec >50 fm, Jan-Mar closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Retention allowed in 2026 with 2-fish sub-limit (booklet §28.55(b)(4)); Cornell CCR mirror lacks (b)(4). Shelf rockfish: boat Oct-Dec only >50 fm. ID: orange w/ 3 orange bands on head, smooth chin, gray/clear lateral line; do not confuse with yelloweye (0 limit).",
+"src": "§28.55(b)(4)"
+},
+{
+"name": "Bocaccio",
+"bag": "10 combined RCG (no sub-limit)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun, Jul-Sep <50 fm, Oct-Dec >50 fm, Jan-Mar closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Shelf rockfish (§1.91(a)(3)); no species sub-limit in 2026, counts toward 10 RCG. Boat Oct-Dec only seaward of 50 fm. Juveniles common in SoCal kelp/structure.",
+"src": "§28.55, §1.91(a)(3)"
+},
+{
+"name": "Treefish",
+"bag": "10 combined RCG (no sub-limit)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Nearshore rockfish (§1.91(a)(1)): boat closed Oct-Dec and Jan-Mar. Counts toward 10 RCG. Common SoCal reef/kelp species.",
+"src": "§28.55, §1.91(a)(1)"
+},
+{
+"name": "Gopher rockfish",
+"bag": "10 combined RCG (no sub-limit)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Nearshore rockfish: boat closed Oct-Dec and Jan-Mar. Counts toward 10 RCG. ID: near-identical to black-and-yellow (gopher blotches pinkish/whitish, black-and-yellow yellowish); same limit so ID error is not a citation.",
+"src": "§28.55, §1.91(a)(1)"
+},
+{
+"name": "Black-and-yellow rockfish",
+"bag": "10 combined RCG (no sub-limit)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Nearshore rockfish: boat closed Oct-Dec and Jan-Mar. Counts toward 10 RCG. Shallow reef species, common at Channel Islands.",
+"src": "§28.55, §1.91(a)(1)"
+},
+{
+"name": "Kelp rockfish",
+"bag": "10 combined RCG (no sub-limit)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Nearshore rockfish: boat closed Oct-Dec and Jan-Mar. Counts toward 10 RCG. Most common rockfish in SoCal kelp beds; ID vs brown rockfish (both same limit).",
+"src": "§28.55, §1.91(a)(1)"
+},
+{
+"name": "Grass rockfish",
+"bag": "10 combined RCG (no sub-limit)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Nearshore rockfish: boat closed Oct-Dec and Jan-Mar. Counts toward 10 RCG. Very shallow (intertidal to 50 ft) reef species, prime shore-dive target.",
+"src": "§28.55, §1.91(a)(1)"
+},
+{
+"name": "Brown rockfish",
+"bag": "10 combined RCG (no sub-limit)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Nearshore rockfish: boat closed Oct-Dec and Jan-Mar. Counts toward 10 RCG. Common in harbors/bays. ID caution: copper (1 limit) and quillback (0 limit) look similar; brown has dark blotch on gill cover.",
+"src": "§28.55, §1.91(a)(1)"
+},
+{
+"name": "Olive rockfish",
+"bag": "10 combined RCG (no sub-limit)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Nearshore rockfish: boat closed Oct-Dec and Jan-Mar. Counts toward 10 RCG. ID: near-identical yellowtail rockfish is shelf group (boat Oct-Dec >50fm only); irrelevant for divers, same limit.",
+"src": "§28.55, §1.91(a)(1)"
+},
+{
+"name": "Blue/deacon rockfish",
+"bag": "10 combined RCG (no sub-limit)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Blue rockfish is nearshore (§1.91(a)(1)); deacon not named in §1.91, CDFW treats it with blue. Boat closed Oct-Dec and Jan-Mar. Counts toward 10 RCG. Schooling in kelp canopy at Channel Islands.",
+"src": "§28.55, §1.91(a)(1)"
+},
+{
+"name": "Cowcod",
+"bag": "0 - no take",
+"size": "None",
+"season": "Closed",
+"spear": "PROHIBITED - no take at all",
+"notes": "Zero limit statewide; shall not be taken or possessed (§28.55(b)(1)). Diver season exemption does NOT apply to (b)(1) species. Large pink/orange rockfish; juveniles occur in shallow SoCal water. Release immediately.",
+"src": "§28.55(b)(1)"
+},
+{
+"name": "Yelloweye rockfish",
+"bag": "0 - no take",
+"size": "None",
+"season": "Closed",
+"spear": "PROHIBITED - no take at all",
+"notes": "Zero limit statewide; shall not be taken or possessed (§28.55(b)(1)). Diver exemption does NOT apply. Bright yellow eye, orange-red body; juveniles have 2 white stripes. Do not confuse with canary (2 limit) or vermilion.",
+"src": "§28.55(b)(1)"
+},
+{
+"name": "Bronzespotted rockfish",
+"bag": "0 - no take",
+"size": "None",
+"season": "Closed",
+"spear": "PROHIBITED - no take at all",
+"notes": "Zero limit statewide; shall not be taken or possessed (§28.55(b)(1)). Diver exemption does NOT apply. Deepwater SoCal species (usually >250 ft), unlikely at freedive depth.",
+"src": "§28.55(b)(1)"
+},
+{
+"name": "Quillback rockfish",
+"bag": "0 - no take",
+"size": "None",
+"season": "Closed",
+"spear": "PROHIBITED - no take at all",
+"notes": "Zero limit statewide; shall not be taken or possessed (§28.55(b)(1)). Diver exemption does NOT apply. Nearshore species, rare south of Pt Conception. ID: tall deeply-notched dorsal spines, brown w/ orange-yellow speckling; resembles brown/copper.",
+"src": "§28.55(b)(1)"
+},
+{
+"name": "Lingcod",
+"bag": "2",
+"size": "22 in TL",
+"season": "Divers all year. Boat: Apr-Jun, Jul-Sep <50 fm, Oct-Dec >50 fm, Jan-Mar closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Not part of RCG 10. Boat: Jan-Mar closed; Oct-Dec open only seaward of 50 fm. Fillets min 14 in with entire skin attached (§27.65(b)(3)). Closed in Groundfish Exclusion Areas (§27.50). Descending device required aboard boats (§27.20(b)(2)).",
+"src": "§28.27, §27.45, §27.65(b)(3)"
+},
+{
+"name": "Cabezon",
+"bag": "10 combined RCG (no sub-limit)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Counts toward 10 RCG. Grouped with nearshore for boat season: closed Oct-Dec and Jan-Mar. Fillets must have entire skin attached. Roe is toxic - do not eat eggs.",
+"src": "§28.28, §27.45"
+},
+{
+"name": "Greenling (kelp/rock)",
+"bag": "10 combined RCG (no sub-limit)",
+"size": "None",
+"season": "Divers all year. Boat: Apr-Jun all depths, Jul-Sep <50 fm, else closed",
+"spear": "OK; divers exempt from season/depth closure",
+"notes": "Genus Hexagrammos regulated as one unit under §28.29; counts toward 10 RCG. Boat season follows nearshore: closed Oct-Dec and Jan-Mar. Fillets entire skin attached. Uncommon south of Pt Conception; kelp greenling at N Channel Islands.",
+"src": "§28.29, §27.45"
+}
+]

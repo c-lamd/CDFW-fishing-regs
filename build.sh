@@ -16,6 +16,7 @@ if [ "${1:-}" = store ]; then
 else
     OUT=(-o "$BIN\\FishRegs.prg" -d "${DEVICE:-descentg2}")
 fi
+python3 data/split.py      # regs.json -> per-group jsonData the watch loads one at a time
 mkdir -p bin
 "$JAVA" -Xms1g -Dfile.encoding=UTF-8 -jar "${SDK}bin\\monkeybrains.jar" \
     "${OUT[@]}" -f "$(wslpath -w "$PWD/monkey.jungle")" -y "$KEY" -w "$@"

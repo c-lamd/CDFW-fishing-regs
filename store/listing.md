@@ -16,7 +16,7 @@ renders any size).
 **Type:** Device App · **Category:** Outdoor / Diving · **Price:** free
 **Version:** 1.1.0 (manifest.xml)
 **Devices:** Descent G2, Descent Mk3 43mm / Mk3i 43mm, Descent Mk3i 51mm, Descent Mk2 / Mk2i, Descent Mk2 S,
-Descent Mk1, fenix 8 43mm / 47mm / 51mm, fenix 8 Pro, fenix 8 Solar 47mm / 51mm (plus tactix 8 / quatix 8 variants
+Descent Mk1, Descent G1 / G1 Solar (no photos: black-and-white screen), fenix 8 43mm / 47mm / 51mm, fenix 8 Pro, fenix 8 Solar 47mm / 51mm (plus tactix 8 / quatix 8 variants
 that share those profiles)
 **Permissions:** none. Works fully offline; collects and sends no data.
 
@@ -35,7 +35,7 @@ included) on your Descent or fenix, offline.
   Sharks & Rays, Lobster & Inverts, Rules & Spearfishing
 - For each species: bag limit, size limit, season, whether spearfishing is allowed, notes, and the
   governing Title 14 CCR section
-- ID photos for 96 species, right at the top of each species page
+- ID photos for 96 species, right at the top of each species page (not on the black-and-white Descent G1)
 - Diver-specific rules stated first where they differ from boat anglers
 - Spearfishing essentials: spear-prohibited species, diver groundfish exemption, fillet and length rules,
   lobster report card, hours of take
@@ -57,7 +57,8 @@ for each photo are shown in the app under that species ("Photo credit").
 
 ## What's new (1.1.0)
 
-Now on the fenix 8 family and the Descent Mk1.
+Now on the fenix 8 family, the Descent Mk1 and the Descent G1 (text only on the G1). Uses less memory on
+every watch.
 
 ## What's new (1.0.0)
 

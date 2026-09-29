@@ -1,3 +1,10 @@
 <jsonDataResources>
-    <jsonData id="regs" filename="regs.json"/>
+    <jsonData id="index" filename="index.json"/>
+    <jsonData id="g0" filename="g0.json"/>
+    <jsonData id="g1" filename="g1.json"/>
+    <jsonData id="g2" filename="g2.json"/>
+    <jsonData id="g3" filename="g3.json"/>
+    <jsonData id="g4" filename="g4.json"/>
+    <jsonData id="g5" filename="g5.json"/>
+    <jsonData id="g6" filename="g6.json"/>
 </jsonDataResources>

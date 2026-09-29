@@ -33,7 +33,15 @@ class FieldView extends WatchUi.View {
         var lh = dc.getFontHeight(FONT);
         _rowY = [] as Array<Number>;
         _rowW = [] as Array<Number>;
-        for (var y = cy - (r * TOP).toNumber(); y + lh <= cy + (r * TOP).toNumber(); y += lh) {
+        var top = cy - (r * TOP).toNumber();
+        if (WatchUi has :getSubscreen) {
+            // Descent G1 (Instinct-style): a round sub-screen sits in the top-right corner; start rows below it.
+            var sub = WatchUi.getSubscreen();
+            if (sub != null && sub.y + sub.height > top) {
+                top = sub.y + sub.height;
+            }
+        }
+        for (var y = top; y + lh <= cy + (r * TOP).toNumber(); y += lh) {
             var dy = (y + lh / 2 - cy).abs();
             var half = Math.sqrt((r * r - dy * dy).toFloat()).toNumber() - EDGE;
             _rowY.add(y);
@@ -119,7 +127,7 @@ class FieldView extends WatchUi.View {
             dc.drawText(cx, _rowY[i % rows], FONT, _lines[i], Graphics.TEXT_JUSTIFY_CENTER);
         }
         if (pages() > 1) {
-            dc.setColor(Graphics.COLOR_DK_GRAY, Graphics.COLOR_TRANSPARENT);
+            dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);   // DK_GRAY is black on the 1-bit G1
             dc.drawText(cx, dc.getHeight() - (dc.getFontHeight(FONT) * 3) / 2, FONT,
                         (_page + 1).toString() + "/" + pages().toString(), Graphics.TEXT_JUSTIFY_CENTER);
         }

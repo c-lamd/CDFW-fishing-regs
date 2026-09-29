@@ -1,0 +1,137 @@
+[
+{
+"name": "Kelp bass (calico)",
+"bag": "5 combined w/ sand bass (max 4 barred sand bass)",
+"size": "14 in TL or 10 in alt length",
+"season": "All year",
+"spear": "OK",
+"notes": "Combined limit with barred and spotted sand bass. Fillets min 7.5 in w/ 1 in sq skin patch. Alt length = base of first dorsal spine to tail tip. Sub-limit of 4 barred sand bass sunsets Jun 1, 2028.",
+"src": "14 CCR §28.30, §27.65(b)"
+},
+{
+"name": "Barred sand bass",
+"bag": "Max 4, within 5 combined w/ kelp & spotted sand bass",
+"size": "14 in TL or 10 in alt length",
+"season": "All year",
+"spear": "OK",
+"notes": "4-fish sub-limit (2025 rule, sunsets Jun 1, 2028) inside the 5-fish bass combo. Fillets min 7.5 in w/ 1 in sq skin patch. Cornell LII text is stale (2013) and omits the sub-limit; booklet and CDFW summary carry it.",
+"src": "14 CCR §28.30(c), §27.65(b)"
+},
+{
+"name": "Spotted sand bass",
+"bag": "5 combined w/ kelp & barred sand bass",
+"size": "14 in TL or 10 in alt length",
+"season": "All year",
+"spear": "OK",
+"notes": "Shares the 5-fish bass combo (only barred sand bass has the extra 4-fish cap). Mostly bays/harbors - check MPA and harbor rules. Fillets min 7.5 in w/ 1 in sq skin patch.",
+"src": "14 CCR §28.30, §27.65(b)"
+},
+{
+"name": "White seabass",
+"bag": "3; only 1 south of Pt Conception Mar 15 - Jun 15",
+"size": "28 in TL or 20.5 in alt length",
+"season": "All year (1-fish limit Mar 15 - Jun 15 in SoCal)",
+"spear": "OK",
+"notes": "Whole SoCal region is south of Pt Conception: 1 fish/day Mar 15-Jun 15. Fillets min 19 in w/ 1 in sq patch of silver skin. Alt length: CCR text says 20.5 in; booklet table prints 21.5 and CDFW web summary 20 - regulation text governs. Some MPAs (SMCAs) allow WSB by spear only - check MPA.",
+"src": "14 CCR §28.35, §27.65(b)(4)"
+},
+{
+"name": "Giant (black) sea bass",
+"bag": "0 - no take",
+"size": "N/A",
+"season": "Closed",
+"spear": "PROHIBITED - no take at all",
+"notes": "May not be taken off California; any incidental catch must be returned immediately where taken. Also named in §28.90 as a species spear gear may not be used on. Only fish legally taken in Mexico (2/angler/trip, Mexican permit as proof) may be possessed.",
+"src": "14 CCR §28.10, §28.90"
+},
+{
+"name": "California sheephead",
+"bag": "2",
+"size": "12 in TL",
+"season": "All year for divers & shore; boat anglers Mar 1 - Dec 31",
+"spear": "OK; divers exempt from Jan-Feb boat closure",
+"notes": "Jan 1-last day of Feb closed to boat-based hook-and-line. Divers may take year-round, but during Jan-Feb NO fishing gear other than spearfishing gear may be aboard the vessel/kayak. Fillets min 6.75 in, entire skin intact. Nearshore stock - CDFW may change rules in-season (§52.10).",
+"src": "14 CCR §28.26, §27.65(b)(12)"
+},
+{
+"name": "Ocean whitefish",
+"bag": "10 (part of 20-fish general limit)",
+"size": "None",
+"season": "All year, all depths",
+"spear": "OK",
+"notes": "Open year-round in all depths; not tied to groundfish season. Fillets min 6.5 in with entire skin intact.",
+"src": "14 CCR §28.58, §27.60(a), §27.65(b)(10)"
+},
+{
+"name": "CA scorpionfish (sculpin)",
+"bag": "5",
+"size": "None",
+"season": "All year, all depths (except Groundfish Exclusion Areas)",
+"spear": "OK",
+"notes": "Federal groundfish but exempt from season/depth closures; not in the RCG 10. No take in the 8 SoCal Groundfish Exclusion Areas (offshore banks, §27.50). Boat/kayak: descending device must be aboard when possessing (§27.20(b)(2)). Venomous spines. Fillets: entire skin attached.",
+"src": "14 CCR §28.54, §27.50, §27.20(b)(2)"
+},
+{
+"name": "Garibaldi",
+"bag": "0 - no take",
+"size": "N/A",
+"season": "Closed",
+"spear": "PROHIBITED - no take at all",
+"notes": "May not be taken or possessed (state marine fish). Also expressly excluded from spearfishing gear in §28.90 and bow-and-arrow in §28.95. Bright orange, common on every SoCal reef - do not shoot.",
+"src": "14 CCR §28.05, §28.90, §28.95"
+},
+{
+"name": "Gulf & broomtail grouper",
+"bag": "0 - no take",
+"size": "N/A",
+"season": "Closed",
+"spear": "PROHIBITED - no take at all",
+"notes": "Both species may not be taken or possessed; regulated together in §28.12 and named in the §28.90 spear-gear exclusion. Rare warm-water visitors to SoCal - if unsure of a large grouper ID, do not shoot.",
+"src": "14 CCR §28.12, §28.90"
+},
+{
+"name": "Other groupers (cabrilla)",
+"bag": "10 (part of 20-fish general limit)",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "Groupers OTHER than broomtail, gulf and giant sea bass (e.g. spotted cabrilla) fall under the general finfish limit. No species-specific section. Fillets: 1 in sq skin patch. Positive ID essential - broomtail/gulf grouper and giant sea bass are no-take.",
+"src": "14 CCR §27.60(a)"
+},
+{
+"name": "Opaleye",
+"bag": "10 (part of 20-fish general limit)",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "No species-specific section in Title 14 or the 2026 booklet; general finfish limit §27.60(a) applies (20 total, max 10 of one species). Fillets: 1 in sq skin patch, any size.",
+"src": "14 CCR §27.60(a)"
+},
+{
+"name": "Halfmoon",
+"bag": "10 (part of 20-fish general limit)",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "No species-specific section in Title 14 or the 2026 booklet; general finfish limit §27.60(a) applies (20 total, max 10 of one species). Fillets: 1 in sq skin patch, any size.",
+"src": "14 CCR §27.60(a)"
+},
+{
+"name": "Sargo",
+"bag": "10 (part of 20-fish general limit)",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "No species-specific section in Title 14 or the 2026 booklet; general finfish limit §27.60(a) applies (20 total, max 10 of one species). Fillets: 1 in sq skin patch, any size.",
+"src": "14 CCR §27.60(a)"
+},
+{
+"name": "Black croaker",
+"bag": "10 (part of 20-fish general limit)",
+"size": "None",
+"season": "All year",
+"spear": "OK",
+"notes": "No species-specific section in Title 14 or the 2026 booklet; general finfish limit §27.60(a) applies (20 total, max 10 of one species). Fillets: 1 in sq skin patch. Do not confuse with white croaker (OEHHA consumption advisories in parts of LA/OC).",
+"src": "14 CCR §27.60(a)"
+}
+]
